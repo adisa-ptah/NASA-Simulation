@@ -5,17 +5,20 @@ using UnityEngine;
 public class PlayerControllerX : MonoBehaviour
 {
     public GameObject dogPrefab;
-    private float fireRate = 1; // time player has to wait to fire again
-    private float nextFire = 0; // time since start after which player can fire again
+    public float timer;
+    private float timeLimit = 1.0f;
 
     // Update is called once per frame
     void Update()
     {
-        // On spacebar press, if enough time has elapsed since last fire, send dog
-        if (Input.GetKeyDown(KeyCode.Space) && Time.time > nextFire)
+        //creat timer
+        timer += Time.deltaTime;
+        // On spacebar press, send dog
+        if (Input.GetKeyDown(KeyCode.Space)&& timer > timeLimit)
         {
-            nextFire = Time.time + fireRate; // reset nextFire to current time + fireRate
             Instantiate(dogPrefab, transform.position, dogPrefab.transform.rotation);
+            //reset timer
+            timer = 0;
         }
     }
 }
