@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/LowPoly Environment Pack/Demo/Demo 2.unity
+- path: Assets/Adi's Edit 3.14.21.unity
   isLoaded: 1
   isActive: 1
