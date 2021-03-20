@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Demo 2.unity
+- path: Assets/3.20 Work.unity
   isLoaded: 1
   isActive: 1
