@@ -66,6 +66,7 @@
   <ItemGroup>
     <Compile Include="Assets\RobotSphere\Assets\Scripts\Editor\NotificationWindow.cs" />
     <Reference Include="UnityEngine.Purchasing">
+<<<<<<< HEAD
       <HintPath>/Users/vfawcette/Documents/GitHub/NASA-Simulation/3.20 Work/Library/ScriptAssemblies/UnityEngine.Purchasing.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Purchasing">
@@ -85,6 +86,27 @@
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
       <HintPath>/Users/vfawcette/Documents/GitHub/NASA-Simulation/3.20 Work/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+=======
+      <HintPath>/Users/ariannazurelle/Documents/GitHub/NASA-Simulation/3.20 Work/Library/ScriptAssemblies/UnityEngine.Purchasing.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.Purchasing">
+      <HintPath>/Users/ariannazurelle/Documents/GitHub/NASA-Simulation/3.20 Work/Library/ScriptAssemblies/UnityEditor.Purchasing.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro.Editor">
+      <HintPath>/Users/ariannazurelle/Documents/GitHub/NASA-Simulation/3.20 Work/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.PackageManagerUI.Editor">
+      <HintPath>/Users/ariannazurelle/Documents/GitHub/NASA-Simulation/3.20 Work/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.CollabProxy.Editor">
+      <HintPath>/Users/ariannazurelle/Documents/GitHub/NASA-Simulation/3.20 Work/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro">
+      <HintPath>/Users/ariannazurelle/Documents/GitHub/NASA-Simulation/3.20 Work/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Analytics.DataPrivacy">
+      <HintPath>/Users/ariannazurelle/Documents/GitHub/NASA-Simulation/3.20 Work/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+>>>>>>> 9fea6930b053084819a6a48c7769cd73290f851a
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity/Hub/Editor/2018.4.30f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -321,6 +343,7 @@
       <HintPath>/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/MonoDevelop.Unity/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Advertisements">
+<<<<<<< HEAD
       <HintPath>/Users/vfawcette/Documents/GitHub/NASA-Simulation/3.20 Work/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
@@ -331,6 +354,18 @@
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
       <HintPath>/Users/vfawcette/Documents/GitHub/NASA-Simulation/3.20 Work/Library/PackageCache/com.unity.analytics@3.2.3/Editor/Unity.Analytics.Editor.dll</HintPath>
+=======
+      <HintPath>/Users/ariannazurelle/Documents/GitHub/NASA-Simulation/3.20 Work/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Analytics.StandardEvents">
+      <HintPath>/Users/ariannazurelle/Documents/GitHub/NASA-Simulation/3.20 Work/Library/PackageCache/com.unity.analytics@3.2.3/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Analytics.Tracker">
+      <HintPath>/Users/ariannazurelle/Documents/GitHub/NASA-Simulation/3.20 Work/Library/PackageCache/com.unity.analytics@3.2.3/Editor/Unity.Analytics.Tracker.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Analytics.Editor">
+      <HintPath>/Users/ariannazurelle/Documents/GitHub/NASA-Simulation/3.20 Work/Library/PackageCache/com.unity.analytics@3.2.3/Editor/Unity.Analytics.Editor.dll</HintPath>
+>>>>>>> 9fea6930b053084819a6a48c7769cd73290f851a
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>/Applications/Unity/Hub/Editor/2018.4.30f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>

@@ -68,6 +68,7 @@
     <Compile Include="Assets\RobotSphere\Assets\Scripts\PlayerController.cs" />
     <Compile Include="Assets\RobotSphere\Assets\Scripts\RobotFreeAnim.cs" />
     <Reference Include="UnityEngine.Purchasing">
+<<<<<<< HEAD
       <HintPath>/Users/vfawcette/Documents/GitHub/NASA-Simulation/3.20 Work/Library/ScriptAssemblies/UnityEngine.Purchasing.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Purchasing">
@@ -87,6 +88,27 @@
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
       <HintPath>/Users/vfawcette/Documents/GitHub/NASA-Simulation/3.20 Work/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+=======
+      <HintPath>/Users/ariannazurelle/Documents/GitHub/NASA-Simulation/3.20 Work/Library/ScriptAssemblies/UnityEngine.Purchasing.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.Purchasing">
+      <HintPath>/Users/ariannazurelle/Documents/GitHub/NASA-Simulation/3.20 Work/Library/ScriptAssemblies/UnityEditor.Purchasing.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro.Editor">
+      <HintPath>/Users/ariannazurelle/Documents/GitHub/NASA-Simulation/3.20 Work/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.PackageManagerUI.Editor">
+      <HintPath>/Users/ariannazurelle/Documents/GitHub/NASA-Simulation/3.20 Work/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.CollabProxy.Editor">
+      <HintPath>/Users/ariannazurelle/Documents/GitHub/NASA-Simulation/3.20 Work/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro">
+      <HintPath>/Users/ariannazurelle/Documents/GitHub/NASA-Simulation/3.20 Work/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Analytics.DataPrivacy">
+      <HintPath>/Users/ariannazurelle/Documents/GitHub/NASA-Simulation/3.20 Work/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+>>>>>>> 9fea6930b053084819a6a48c7769cd73290f851a
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>/Applications/Unity/Hub/Editor/2018.4.30f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -293,7 +315,11 @@
       <HintPath>/Applications/Unity/Hub/Editor/2018.4.30f1/Unity.app/Contents/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
+<<<<<<< HEAD
       <HintPath>/Users/vfawcette/Documents/GitHub/NASA-Simulation/3.20 Work/Library/PackageCache/com.unity.analytics@3.2.3/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
+=======
+      <HintPath>/Users/ariannazurelle/Documents/GitHub/NASA-Simulation/3.20 Work/Library/PackageCache/com.unity.analytics@3.2.3/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
+>>>>>>> 9fea6930b053084819a6a48c7769cd73290f851a
     </Reference>
     <Reference Include="netstandard">
       <HintPath>/Applications/Unity/Hub/Editor/2018.4.30f1/Unity.app/Contents/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
