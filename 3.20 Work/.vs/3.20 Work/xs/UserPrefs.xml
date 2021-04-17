@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{75E25350-80EF-6F7D-08C0-B4A22DABCF45}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/RobotSphere/Assets/Scripts/PlayerController.cs">
+    <Files>
+      <File FileName="Assets/RobotSphere/Assets/Scripts/PlayerController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="3.20 Work" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="RobotSphere" expanded="True">
+                <Node name="Assets" expanded="True">
+                  <Node name="Scripts" expanded="True">
+                    <Node name="PlayerController.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="08f88e65-0db9-4797-a299-f6a3aa870e76" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
