@@ -6,7 +6,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637548799340000000
+      ticks: 637548802410000000
     m_Hash: 455018041
   m_LockFileStatus:
     m_FilePath: /Users/ariannazurelle/Documents/GitHub/NASA-Simulation/Environment
@@ -15,7 +15,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637548799480000000
+      ticks: 637548802410000000
     m_Hash: 3021215987
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
@@ -168,10 +168,13 @@ m_ResolvedPackages:
     - 3.0.1
     - 3.0.2
     - 3.0.3
+    - 3.0.4
     - 3.0.5
+    - 3.0.6
     compatible:
     - 3.0.5
-    verified: 3.0.5
+    - 3.0.6
+    verified: 3.0.6
   dependencies: []
   resolvedDependencies: []
   keywords: []
@@ -187,7 +190,7 @@ m_ResolvedPackages:
   entitlements:
     isAllowed: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 0
+  datePublishedTicks: 637502896060000000
   documentationUrl: 
   hasRepository: 1
   repository:
@@ -221,6 +224,17 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
+    - 1.0.2
+    - 1.0.3
+    - 1.0.4
+    - 1.0.9
+    - 1.0.10
+    - 1.0.11
+    - 2.0.0
+    - 2.0.1
+    - 2.0.2
+    - 2.0.3
+    - 2.0.5
     - 2.0.7
     compatible:
     - 2.0.7
@@ -250,7 +264,7 @@ m_ResolvedPackages:
   entitlements:
     isAllowed: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 0
+  datePublishedTicks: 637486638490000000
   documentationUrl: 
   hasRepository: 1
   repository:
@@ -371,6 +385,7 @@ m_ResolvedPackages:
     - 1.1.18
     - 1.1.19
     - 1.1.20
+    - 1.1.22
     - 1.1.24
     compatible:
     - 1.1.24
@@ -404,12 +419,12 @@ m_ResolvedPackages:
   entitlements:
     isAllowed: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 0
+  datePublishedTicks: 637505702940000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
-    url: https://github.com/Unity-Technologies/com.unity.test-framework.git
+    url: git+https://github.com/Unity-Technologies/com.unity.test-framework.git
     revision: e6fe8892689398c0d9aba4587e0ba69edc3d82b8
     path: 
   unityLifecycle:
@@ -490,6 +505,9 @@ m_ResolvedPackages:
     - 1.5.0
     - 1.5.1
     - 1.5.3
+    - 1.5.4
+    - 1.5.5
+    - 1.5.6
     - 2.0.0
     - 2.0.1-preview.1
     - 2.0.1
@@ -508,6 +526,9 @@ m_ResolvedPackages:
     - 2.1.0
     - 2.1.1
     - 2.1.3
+    - 2.1.4
+    - 2.1.5
+    - 2.1.6
     - 3.0.0-preview.1
     - 3.0.0-preview.3
     - 3.0.0-preview.4
@@ -523,9 +544,13 @@ m_ResolvedPackages:
     - 3.0.1
     - 3.0.3
     - 3.0.4
+    - 3.0.5
+    - 3.0.6
     compatible:
     - 3.0.4
-    verified: 3.0.4
+    - 3.0.5
+    - 3.0.6
+    verified: 3.0.6
   dependencies:
   - name: com.unity.ugui
     version: 1.0.0
@@ -554,7 +579,7 @@ m_ResolvedPackages:
   entitlements:
     isAllowed: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 0
+  datePublishedTicks: 637492944820000000
   documentationUrl: 
   hasRepository: 1
   repository:
@@ -604,6 +629,7 @@ m_ResolvedPackages:
     - 1.2.15
     - 1.2.16
     - 1.2.17
+    - 1.2.18
     - 1.3.0-preview.2
     - 1.3.0-preview.3
     - 1.3.0-preview.5
@@ -616,6 +642,7 @@ m_ResolvedPackages:
     - 1.3.4
     - 1.3.5
     - 1.3.6
+    - 1.3.7
     - 1.4.0-preview.1
     - 1.4.0-preview.2
     - 1.4.0-preview.3
@@ -628,6 +655,8 @@ m_ResolvedPackages:
     - 1.4.3
     - 1.4.4
     - 1.4.5
+    - 1.4.6
+    - 1.4.7
     - 1.5.0-pre.2
     - 1.5.0-preview.1
     - 1.5.0-preview.2
@@ -637,9 +666,14 @@ m_ResolvedPackages:
     - 1.5.1-pre.1
     - 1.5.1-pre.2
     - 1.5.1-pre.3
+    - 1.5.2
     - 1.5.4
+    - 1.6.0-pre.1
+    - 1.6.0-pre.3
     compatible:
     - 1.5.4
+    - 1.6.0-pre.1
+    - 1.6.0-pre.3
     verified: 1.5.4
   dependencies:
   - name: com.unity.modules.director
@@ -677,7 +711,7 @@ m_ResolvedPackages:
   entitlements:
     isAllowed: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 0
+  datePublishedTicks: 637510732040000000
   documentationUrl: 
   hasRepository: 1
   repository:
@@ -769,7 +803,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: tool
+  type: 
   description: "Visual Scripting, previously known as BOLT, is an alternative workflow
     to design behaviours. Instead of the classic method of writing a C# script, visual
     scripting offers a way to design behaviours intuitively without code, by connecting
@@ -781,9 +815,19 @@ m_ResolvedPackages:
   errors: []
   versions:
     all:
+    - 1.5.0
+    - 1.5.1-pre.3
+    - 1.5.1-pre.5
+    - 1.5.1
     - 1.5.2
+    - 1.6.0-pre.3
+    - 1.6.0
+    - 1.6.1
     compatible:
     - 1.5.2
+    - 1.6.0-pre.3
+    - 1.6.0
+    - 1.6.1
     verified: 1.5.2
   dependencies:
   - name: com.unity.ugui
@@ -832,7 +876,7 @@ m_ResolvedPackages:
   entitlements:
     isAllowed: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 0
+  datePublishedTicks: 637509974430000000
   documentationUrl: 
   hasRepository: 1
   repository:
