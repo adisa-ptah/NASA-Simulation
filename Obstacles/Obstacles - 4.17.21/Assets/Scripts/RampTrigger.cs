@@ -17,7 +17,7 @@ public class RampTrigger : MonoBehaviour
     // Update is called once per frame
     void OnTriggerStay()
     {
-
+        // Code to pickup the ramp trigger. Press "Q" to pickup the block. 
         if (Input.GetKey(KeyCode.Q))
             ramphere.GetComponent<BoxCollider>().enabled = true;
 

@@ -15,6 +15,7 @@ public class OpenDoor : MonoBehaviour {
     }
 
     // Update is called once per frame
+    // Code below is to trigger animation of door. Press "E" once trigger is picked up to begin animation. 
     void OnTriggerStay () {
         if (Input.GetKey (KeyCode.E))
             hingehere.Play();

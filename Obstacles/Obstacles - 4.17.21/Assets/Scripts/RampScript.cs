@@ -9,10 +9,12 @@ public class RampScript : MonoBehaviour
 	public Transform chController;
 	bool inside = false;
 	public float speedUpDown = 10.0f;
+	// Enter name of unique player control script below. Make sure to drag the player to the "FPSInput" section in unity. 
 	public PlayerControl FPSInput;
 
 	void Start()
 	{
+		// Enter name of unique player control script below. 
 		FPSInput = GetComponent<PlayerControl>();
 		inside = false;
 	}

@@ -18,6 +18,7 @@ public class DropRamp : MonoBehaviour
     // Update is called once per frame
     void OnTriggerStay()
     {
+        // Code to engage ramp-drop animation. Press "Q" after picking up trigger to engage animation. 
         if (Input.GetKey(KeyCode.Q))
             ramphere.Play();
     }

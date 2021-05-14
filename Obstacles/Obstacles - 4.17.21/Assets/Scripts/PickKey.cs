@@ -15,7 +15,7 @@ public class PickKey : MonoBehaviour {
 
     // Update is called once per frame
     void OnTriggerStay () {
-
+        // Code to configure pick-up key on keyboard. Press "E" to pickup key trigger. 
         if (Input.GetKey(KeyCode.E))
             doorcolliderhere.GetComponent<BoxCollider> ().enabled = true;
         
