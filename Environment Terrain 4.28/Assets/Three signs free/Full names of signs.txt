@@ -1,0 +1,10 @@
+You can see the full set of signs at the link: http://u3d.as/2dax
+
+Mandatory (Blue circle)
+M003 – Wear ear protection
+
+Safe Condition (Green square)
+E003 – First aid
+
+Warning (Yellow triangle)
+W003 – Radioactive material or ionizing radiation
