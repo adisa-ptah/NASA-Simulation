@@ -1,14 +1,12 @@
 using UnityEngine;
 using System.Collections;
-using System.Collections.Generic;
 
 public class CameraController : MonoBehaviour
-
 {
 
     public GameObject player;        //Public variable to store a reference to the player game object
 
-
+    
     public Vector3 offset;            //Private variable to store the offset distance between the player and camera
 
     // Use this for initialization
@@ -25,34 +23,3 @@ public class CameraController : MonoBehaviour
         transform.position = player.transform.position + offset;
     }
 }
-
-
-/*
-{
-
-    // Start is called before the first frame update
-    void Start()
-    {
-
-        // Third person Camera
-        Camera.main.transform.position = this.transform.position - this.transform.forward * 45 + this.transform.up * 30;
-        //Camera.main.transform.LookAt(this.transform.position);
-        Camera.main.transform.parent = this.transform;
-
-        // First person Camera
-        //Camera.main.transform.position = this.transform.position - this.transform.forward * -1.0f + this.transform.up * 1.0f; 
-
-
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-
-    }
-
-}
-*/
-
-
-
