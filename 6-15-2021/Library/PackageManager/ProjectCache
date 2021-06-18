@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637596297696108972
-    m_Hash: 1195421200
+      ticks: 637596368629070364
+    m_Hash: 2894632354
   m_LockFileStatus:
     m_FilePath: C:/Users/mnmcs/Desktop/GitHub/NASA-Simulation/6-15-2021/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637596297912340834
-    m_Hash: 640392696
+      ticks: 637596368629070364
+    m_Hash: 2390796872
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -828,10 +828,12 @@ m_ResolvedPackages:
     - 1.1.22
     - 1.1.24
     - 1.1.26
+    - 1.1.27
     compatible:
     - 1.1.24
     - 1.1.26
-    verified: 1.1.26
+    - 1.1.27
+    verified: 1.1.27
   dependencies:
   - name: com.unity.ext.nunit
     version: 1.0.6
