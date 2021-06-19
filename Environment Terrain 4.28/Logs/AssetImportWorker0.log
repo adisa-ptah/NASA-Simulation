@@ -1,367 +1,117 @@
 Using pre-set license
-Built from '2021.1/staging' branch; Version is '2021.1.3f1 (4bef613afd59) revision 4976481'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10 Home; OS build 19042.1052; Version 2009; 64bit' Language: 'en' Physical Memory: 24477 MB
-BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
-C:\Program Files\Unity\Hub\Editor\2021.1.3f1\Editor\Unity.exe
+/Applications/Unity/Hub/Editor/2021.1.3f1/Unity.app/Contents/MacOS/Unity
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/User/Desktop/Unity Stuff/NASA-Simulation/Environment Terrain 4.28
+/Users/andrewlander/Desktop/GitHub/NASA-Simulation/Environment Terrain 4.28
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-50501
-Successfully changed project path to: C:/Users/User/Desktop/Unity Stuff/NASA-Simulation/Environment Terrain 4.28
-C:/Users/User/Desktop/Unity Stuff/NASA-Simulation/Environment Terrain 4.28
+61499
+Successfully changed project path to: /Users/andrewlander/Desktop/GitHub/NASA-Simulation/Environment Terrain 4.28
+/Users/andrewlander/Desktop/GitHub/NASA-Simulation/Environment Terrain 4.28
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 143.99 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 197.67 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.1.3f1 (4bef613afd59)
-[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/User/Desktop/Unity Stuff/NASA-Simulation/Environment Terrain 4.28/Assets
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2021.1.3f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/andrewlander/Desktop/GitHub/NASA-Simulation/Environment Terrain 4.28/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
-Direct3D:
-    Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA TITAN X (Pascal) (ID=0x1b00)
-    Vendor:   NVIDIA
-    VRAM:     12147 MB
-    Driver:   27.21.14.6589
+2021-06-19 08:16:15.377 Unity[46445:11264261] Color LCD preferred device: Intel Iris Graphics (low power)
+2021-06-19 08:16:15.377 Unity[46445:11264261] Metal devices available: 1
+2021-06-19 08:16:15.377 Unity[46445:11264261] 0: Intel Iris Graphics (low power)
+2021-06-19 08:16:15.378 Unity[46445:11264261] Using device Intel Iris Graphics (low power)
+Initializing Metal device caps: Intel Iris Graphics
 Initialize mono
-Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/Managed'
-Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
-Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56520
+Mono path[0] = '/Applications/Unity/Hub/Editor/2021.1.3f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2021.1.3f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2021.1.3f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56445
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002285 seconds.
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 90.28 ms, found 1 plugins.
+Register platform support module: /Applications/Unity/Hub/Editor/2021.1.3f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.002670 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 199.81 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.495 seconds
+- Completed reload, in 12.182 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.003573 seconds.
+Registered in 0.030938 seconds.
 Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
 Refreshing native plugins compatible for Editor in 0.66 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.095 seconds
+- Completed reload, in  2.333 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 0.65 ms, found 1 plugins.
+Launching external process: /Applications/Unity/Hub/Editor/2021.1.3f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.25 seconds
+Refreshing native plugins compatible for Editor in 0.76 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2681 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 111.7 MB.
-System memory in use after: 111.9 MB.
+System memory in use before: 168.0 MB.
+System memory in use after: 168.2 MB.
 
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3149.
-Total: 2.183500 ms (FindLiveObjects: 0.218500 ms CreateObjectMapping: 0.141600 ms MarkObjects: 1.759700 ms  DeleteObjects: 0.062900 ms)
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3135.
+Total: 3.095242 ms (FindLiveObjects: 0.350797 ms CreateObjectMapping: 0.190452 ms MarkObjects: 2.471197 ms  DeleteObjects: 0.080920 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/LowPoly Environment Pack/FBX
-  artifactKey: Guid(330d22fb8481f194e995606c993f12c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LowPoly Environment Pack/FBX using Guid(330d22fb8481f194e995606c993f12c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ef54c3af1cdeb03191562dce2ed2917') in 0.013015 seconds 
+  path: Assets/Scenes
+  artifactKey: Guid(b925f0bb9851b4351ae787f49ac404a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(b925f0bb9851b4351ae787f49ac404a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72a02b2535a820a50a3a0fdba4333d6e') in 0.007292 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000186 seconds.
-  path: Assets/LowPoly Environment Pack/FBX/Mounting_1.fbx
-  artifactKey: Guid(7d626b52dc7a9c24e95f55619a456158) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LowPoly Environment Pack/FBX/Mounting_1.fbx using Guid(7d626b52dc7a9c24e95f55619a456158) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a8f386f164070f9e9f4b89efe1e8963') in 0.418272 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000190 seconds.
-  path: Assets/LowPoly Environment Pack/FBX/Rock_6.fbx
-  artifactKey: Guid(71bb44319f15e0741846c4fad009f013) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LowPoly Environment Pack/FBX/Rock_6.fbx using Guid(71bb44319f15e0741846c4fad009f013) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f360dd71a69522ac109613099f74a188') in 0.028535 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000186 seconds.
-  path: Assets/Materials/Door.mat
-  artifactKey: Guid(2206d00c5e88b914b9dbb65b8d6f1545) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Materials/Door.mat using Guid(2206d00c5e88b914b9dbb65b8d6f1545) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a5428bedfdfb265309a3a8023e28266') in 0.036136 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000184 seconds.
-  path: Assets/LowPoly Environment Pack/FBX/Mounting_3.fbx
-  artifactKey: Guid(492031f9cbc117d419c5271ccc50b76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LowPoly Environment Pack/FBX/Mounting_3.fbx using Guid(492031f9cbc117d419c5271ccc50b76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b2a3567c3c2585f7626c52f02f30818') in 0.029889 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000189 seconds.
-  path: Assets/LowPoly Environment Pack/FBX/Rock_4.fbx
-  artifactKey: Guid(b58e7fdfb89fbc549b36a69243aee4c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LowPoly Environment Pack/FBX/Rock_4.fbx using Guid(b58e7fdfb89fbc549b36a69243aee4c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6ac568ea116f90da2013f6a226e28f7') in 0.024204 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000191 seconds.
-  path: Assets/LowPoly Environment Pack/Prefabs
-  artifactKey: Guid(0dc6268c13712ab439ede78390bed311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LowPoly Environment Pack/Prefabs using Guid(0dc6268c13712ab439ede78390bed311) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d6ceeed2748f43bcd83fa6ed5e19d34') in 0.007180 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000190 seconds.
-  path: Assets/LowPoly Environment Pack/FBX/Rock_1.fbx
-  artifactKey: Guid(b2d7d77df4449b24fb2fffe6ca115874) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LowPoly Environment Pack/FBX/Rock_1.fbx using Guid(b2d7d77df4449b24fb2fffe6ca115874) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c60724bfaa55e8c087c05c5fb2c96c06') in 0.027902 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000187 seconds.
-  path: Assets/LowPoly Environment Pack/FBX/Terrain_2.fbx
-  artifactKey: Guid(cc767c10d36eaa748aaa5b008bf78528) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LowPoly Environment Pack/FBX/Terrain_2.fbx using Guid(cc767c10d36eaa748aaa5b008bf78528) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98afbded70d50ca92634f1cf5d6517cc') in 0.026536 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000189 seconds.
-  path: Assets/LowPoly Environment Pack/FBX/Environment_1.fbx
-  artifactKey: Guid(a9a560b7bc05a6a46978b53fe4b40f49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LowPoly Environment Pack/FBX/Environment_1.fbx using Guid(a9a560b7bc05a6a46978b53fe4b40f49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '905bd21aba4e7d6e7e787e2722176be9') in 0.023497 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000190 seconds.
-  path: Assets/LowPoly Environment Pack/FBX/Mounting_2.fbx
-  artifactKey: Guid(bf8d317df722d644f99e8ff3926c99d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LowPoly Environment Pack/FBX/Mounting_2.fbx using Guid(bf8d317df722d644f99e8ff3926c99d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80a1eda7462c38b2a03174e642a5af27') in 0.022141 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000159 seconds.
-  path: Assets/LowPoly Environment Pack/FBX/Rock_5.fbx
-  artifactKey: Guid(18cea87bdb7d0fa46986e492321f3d1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LowPoly Environment Pack/FBX/Rock_5.fbx using Guid(18cea87bdb7d0fa46986e492321f3d1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b0ecb3075d6a9541e7cd8d7f6601c13') in 0.026558 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000168 seconds.
-  path: Assets/LowPoly Environment Pack/FBX/Rock_2.fbx
-  artifactKey: Guid(dfed2e9fb3d8ac84da441095f9422543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LowPoly Environment Pack/FBX/Rock_2.fbx using Guid(dfed2e9fb3d8ac84da441095f9422543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58a74987a5fecb4277763db7ac1e7ef2') in 0.020646 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000194 seconds.
-  path: Assets/LowPoly Environment Pack/FBX/Rock_3.fbx
-  artifactKey: Guid(f902b41e10cdd2d44aaf1ada606f5d3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LowPoly Environment Pack/FBX/Rock_3.fbx using Guid(f902b41e10cdd2d44aaf1ada606f5d3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6694325e41b86bac721e358b914baa88') in 0.028918 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 550.851406 seconds.
-  path: Assets/LowPoly Environment Pack/Prefabs/Environment_1.prefab
-  artifactKey: Guid(93acc49b5a9f4e84b89aa62e0282a2a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LowPoly Environment Pack/Prefabs/Environment_1.prefab using Guid(93acc49b5a9f4e84b89aa62e0282a2a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cf2b8b012b94b914500e5c84c02adc7') in 0.023952 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000225 seconds.
-  path: Assets/LowPoly Environment Pack/Prefabs/Mounting_3.prefab
-  artifactKey: Guid(37bf6b4eaddee8d448771b63238e03d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LowPoly Environment Pack/Prefabs/Mounting_3.prefab using Guid(37bf6b4eaddee8d448771b63238e03d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78e23c2e91ed5174ab29a55b7b4eb562') in 0.013803 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000259 seconds.
-  path: Assets/LowPoly Environment Pack/Prefabs/NewLayer 7.terrainlayer
-  artifactKey: Guid(933c912dab760450a801de9c03562e19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LowPoly Environment Pack/Prefabs/NewLayer 7.terrainlayer using Guid(933c912dab760450a801de9c03562e19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94c7da241b0e8242aa75fce50f84672c') in 0.031114 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000217 seconds.
-  path: Assets/LowPoly Environment Pack/Prefabs/NewLayer.terrainlayer
-  artifactKey: Guid(874b70dee0fce447bb59e61cb32f616a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LowPoly Environment Pack/Prefabs/NewLayer.terrainlayer using Guid(874b70dee0fce447bb59e61cb32f616a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e82f88508e5b758f7d7b1df509a7e039') in 0.020446 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000219 seconds.
-  path: Assets/LowPoly Environment Pack/Prefabs/NewLayer 8.terrainlayer
-  artifactKey: Guid(ee40b9eeec40a41f3b4e903fbb57e8bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LowPoly Environment Pack/Prefabs/NewLayer 8.terrainlayer using Guid(ee40b9eeec40a41f3b4e903fbb57e8bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3444c10a7b8cc6161ba8e6791bfba481') in 0.013365 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000201 seconds.
-  path: Assets/LowPoly Environment Pack/Prefabs/NewLayer 3.terrainlayer
-  artifactKey: Guid(e5ccc5856e3614975989ed8b9d7f00d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LowPoly Environment Pack/Prefabs/NewLayer 3.terrainlayer using Guid(e5ccc5856e3614975989ed8b9d7f00d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '590d36eb339ca951a90c8a22db926231') in 0.012484 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000184 seconds.
-  path: Assets/LowPoly Environment Pack/Prefabs/Rock_1.prefab
-  artifactKey: Guid(74442f407a24ac84f95f08a83b1bb617) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LowPoly Environment Pack/Prefabs/Rock_1.prefab using Guid(74442f407a24ac84f95f08a83b1bb617) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7794b4df7c2fbaeaf90588c45c20b847') in 0.010859 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000197 seconds.
-  path: Assets/LowPoly Environment Pack/Prefabs/NewLayer 6.terrainlayer
-  artifactKey: Guid(488f9b71d532141099d0b45d6556de61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LowPoly Environment Pack/Prefabs/NewLayer 6.terrainlayer using Guid(488f9b71d532141099d0b45d6556de61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ba5dc0ccddd0d85ac3ec7fd141e003b') in 0.018478 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000206 seconds.
-  path: Assets/LowPoly Environment Pack/Prefabs/NewLayer 1.terrainlayer
-  artifactKey: Guid(565dca92904ac470c86a64ca58a2ca71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LowPoly Environment Pack/Prefabs/NewLayer 1.terrainlayer using Guid(565dca92904ac470c86a64ca58a2ca71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98d76ffa17123ed5d38dd65ca65ab7ee') in 0.017786 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000198 seconds.
-  path: Assets/LowPoly Environment Pack/Prefabs/Rock_2.prefab
-  artifactKey: Guid(4983f395b2610de4e9f688a87bbd9af9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LowPoly Environment Pack/Prefabs/Rock_2.prefab using Guid(4983f395b2610de4e9f688a87bbd9af9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a12829381f9d602006d51131ab65b9b3') in 0.010522 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000178 seconds.
-  path: Assets/LowPoly Environment Pack/Prefabs/Rock_5.prefab
-  artifactKey: Guid(3a33ce58c20826a4ea7253f84444654b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LowPoly Environment Pack/Prefabs/Rock_5.prefab using Guid(3a33ce58c20826a4ea7253f84444654b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36f66c84e0e13f86b45b5024ec968cc4') in 0.010913 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000195 seconds.
-  path: Assets/LowPoly Environment Pack/Prefabs/NewLayer 5.terrainlayer
-  artifactKey: Guid(e04be1a23bd514051bc8806f54855427) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LowPoly Environment Pack/Prefabs/NewLayer 5.terrainlayer using Guid(e04be1a23bd514051bc8806f54855427) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06b3a8af116bb2946ef0efbdfb6c0251') in 0.018347 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000184 seconds.
-  path: Assets/LowPoly Environment Pack/Prefabs/NewLayer 9.terrainlayer
-  artifactKey: Guid(ef91f1eb48ef443be856954f56767e57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LowPoly Environment Pack/Prefabs/NewLayer 9.terrainlayer using Guid(ef91f1eb48ef443be856954f56767e57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36f2692598ee2ac2e4396d26e52d6119') in 0.012487 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000192 seconds.
-  path: Assets/LowPoly Environment Pack/Prefabs/Mounting_2.prefab
-  artifactKey: Guid(8732d563a511d834e823ac895b8a4004) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LowPoly Environment Pack/Prefabs/Mounting_2.prefab using Guid(8732d563a511d834e823ac895b8a4004) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8a1490d5b9c3096bf3fe0c9dc75bee4') in 0.011609 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000174 seconds.
-  path: Assets/LowPoly Environment Pack/Prefabs/Rock_4.prefab
-  artifactKey: Guid(836ca07fc69b4184ca14265c7d24030d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LowPoly Environment Pack/Prefabs/Rock_4.prefab using Guid(836ca07fc69b4184ca14265c7d24030d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c3174ec7db2b8b6446998cb1689697b') in 0.010940 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000165 seconds.
-  path: Assets/LowPoly Environment Pack/Prefabs/Mounting_1.prefab
-  artifactKey: Guid(e05ee61d6dad0e54eb51d1c8ec3becc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LowPoly Environment Pack/Prefabs/Mounting_1.prefab using Guid(e05ee61d6dad0e54eb51d1c8ec3becc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b5ad31ed5873053beafe9634b5b654b') in 0.012070 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000170 seconds.
-  path: Assets/LowPoly Environment Pack/Prefabs/NewLayer 2.terrainlayer
-  artifactKey: Guid(20c6cd5abffd5448888202c4ae0682c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LowPoly Environment Pack/Prefabs/NewLayer 2.terrainlayer using Guid(20c6cd5abffd5448888202c4ae0682c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '338fa6b6ee04d4d815ee5cbde7750dec') in 0.019753 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000196 seconds.
-  path: Assets/LowPoly Environment Pack/Prefabs/Terrain_2.prefab
-  artifactKey: Guid(ef140beec582a5a46a6362fcfc31784d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LowPoly Environment Pack/Prefabs/Terrain_2.prefab using Guid(ef140beec582a5a46a6362fcfc31784d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85834caf0e0629a0a62a674763b59de4') in 0.011647 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000199 seconds.
-  path: Assets/LowPoly Environment Pack/Prefabs/Rock_6.prefab
-  artifactKey: Guid(c53e680fdc8fae04d91b4ce9e548d2df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LowPoly Environment Pack/Prefabs/Rock_6.prefab using Guid(c53e680fdc8fae04d91b4ce9e548d2df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8c8e041fc1d7d12bbd58da8581d0590') in 0.012705 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000175 seconds.
-  path: Assets/LowPoly Environment Pack/Prefabs/Rock_3.prefab
-  artifactKey: Guid(da41fd2967a439d409358c2214a5409e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LowPoly Environment Pack/Prefabs/Rock_3.prefab using Guid(da41fd2967a439d409358c2214a5409e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '219cff9c93323402b258d226e9dd07fb') in 0.010709 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000192 seconds.
-  path: Assets/LowPoly Environment Pack/Prefabs/NewLayer 4.terrainlayer
-  artifactKey: Guid(9be1f5c5de311455cad941089fb76426) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/LowPoly Environment Pack/Prefabs/NewLayer 4.terrainlayer using Guid(9be1f5c5de311455cad941089fb76426) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '843dbf75bfa8e95daaed5f315a1e764c') in 0.018065 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 3.659480 seconds.
-  path: Assets/Prefabs/Hinge.prefab
-  artifactKey: Guid(91609464e43cd4d209b4ea0952a9d27e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Hinge.prefab using Guid(91609464e43cd4d209b4ea0952a9d27e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0432cd34ce1c79ee3b6d843d41c3bd5') in 0.021168 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000238 seconds.
-  path: Assets/Prefabs/Key 2.0.prefab
-  artifactKey: Guid(09aa8b04dd4e14c7d948c26074c73caa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Key 2.0.prefab using Guid(09aa8b04dd4e14c7d948c26074c73caa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e85cb58fef996eb3c3af4c3dff8ded3b') in 0.014561 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000251 seconds.
-  path: Assets/Prefabs/Ramp Rotator.prefab
-  artifactKey: Guid(e5ee8d5ba9aab452d884887717b9d866) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Ramp Rotator.prefab using Guid(e5ee8d5ba9aab452d884887717b9d866) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c0b0b4c52dca3a2017bfe377857aa99') in 0.013718 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000222 seconds.
-  path: Assets/Prefabs/Ladder (Ramp).prefab
-  artifactKey: Guid(8d0bc7f3870354e2584a9096b0095717) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Ladder (Ramp).prefab using Guid(8d0bc7f3870354e2584a9096b0095717) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0f05f5b2b73bd740196f712b6b82864') in 0.009695 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000213 seconds.
-  path: Assets/Prefabs/Key.prefab
-  artifactKey: Guid(902acf4f4bd5c44cea578c97c4c07bf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Key.prefab using Guid(902acf4f4bd5c44cea578c97c4c07bf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a3f1bd8581a99806e2a7771cae5c7ff') in 0.012839 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000194 seconds.
-  path: Assets/Prefabs/Ladder.prefab
-  artifactKey: Guid(77e5c9b609b274f82af4eedf25144790) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Ladder.prefab using Guid(77e5c9b609b274f82af4eedf25144790) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19fd0f09a8c89d6a59444f014bb6519a') in 0.009017 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 20.447617 seconds.
-  path: Assets/Scripts/OpenDoor.cs
-  artifactKey: Guid(da5b01ab62f40b94ba9c6c8356d9b729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/OpenDoor.cs using Guid(da5b01ab62f40b94ba9c6c8356d9b729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7072c4f8dc0568093e0be1259c5cf761') in 0.017271 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 605.411278 seconds.
-  path: Assets/Scripts/Rock_Hinge.anim
-  artifactKey: Guid(5dc54de7b1290b348837ec165a57da28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Rock_Hinge.anim using Guid(5dc54de7b1290b348837ec165a57da28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c4151b0d8504d6f592d000678b8d83f') in 0.009709 seconds 
+  Time since last request: 0.000405 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab0145d62078e07d18117458a68935fd') in 0.012750 seconds 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.003559 seconds.
+Registered in 0.209227 seconds.
 Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.73 ms, found 1 plugins.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.62 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.133 seconds
+- Completed reload, in  3.553 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.64 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 1.47 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2674 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 115.6 MB.
-System memory in use after: 115.9 MB.
+System memory in use before: 168.1 MB.
+System memory in use after: 168.3 MB.
 
-Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3199.
-Total: 2.314700 ms (FindLiveObjects: 0.273500 ms CreateObjectMapping: 0.136500 ms MarkObjects: 1.887600 ms  DeleteObjects: 0.015800 ms)
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3138.
+Total: 5.297397 ms (FindLiveObjects: 0.660100 ms CreateObjectMapping: 0.384025 ms MarkObjects: 4.200465 ms  DeleteObjects: 0.051117 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.003500 seconds.
+Registered in 0.080853 seconds.
 Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.62 ms, found 1 plugins.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 39.83 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.061 seconds
+- Completed reload, in  4.434 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.64 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.70 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2674 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 115.7 MB.
-System memory in use after: 115.9 MB.
+System memory in use before: 168.4 MB.
+System memory in use after: 168.6 MB.
 
-Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3202.
-Total: 2.505300 ms (FindLiveObjects: 0.307500 ms CreateObjectMapping: 0.139400 ms MarkObjects: 2.039800 ms  DeleteObjects: 0.017300 ms)
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3141.
+Total: 5.218117 ms (FindLiveObjects: 0.543884 ms CreateObjectMapping: 0.587875 ms MarkObjects: 4.040691 ms  DeleteObjects: 0.043762 ms)
 
-AssetImportWorkerClient::OnTransportError - code=2 error=End of file
