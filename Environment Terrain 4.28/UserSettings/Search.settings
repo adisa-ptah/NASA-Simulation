@@ -13,6 +13,15 @@ scopes = {
 	"m_SideBarSplitter.7F95D817" = "180"
 	"m_DetailsPanelSplitter.7F95D817" = "700"
 	"currentGroup.7F95D817" = "scene"
+	"last_search.785D90A9" = "terrain"
+	"asset.785D90A9" = "True"
+	"menu.785D90A9" = "True"
+	"scene.785D90A9" = "True"
+	"settings.785D90A9" = "True"
+	"m_ShownPanels.785D90A9" = "3"
+	"m_SideBarSplitter.785D90A9" = "-1"
+	"m_DetailsPanelSplitter.785D90A9" = "-1"
+	"currentGroup.785D90A9" = "all"
 }
 providers = {
 	asset = {
