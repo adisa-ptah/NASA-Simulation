@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: d5fbf2b1675141e4caaac845539805a9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 01
+    100002: 01_1
+    100004: 02
+    100006: 02_1
+    100008: 03
+    100010: 03_1
+    100012: CINEMA_4D_Editor
+    100014: //RootNode
+    100016: Round clean
+    100018: Round dirty
+    100020: Square clean
+    100022: Square dirty
+    100024: Triangle clean
+    100026: Triangle dirty
+    400000: 01
+    400002: 01_1
+    400004: 02
+    400006: 02_1
+    400008: 03
+    400010: 03_1
+    400012: CINEMA_4D_Editor
+    400014: //RootNode
+    400016: Round clean
+    400018: Round dirty
+    400020: Square clean
+    400022: Square dirty
+    400024: Triangle clean
+    400026: Triangle dirty
+    2000000: CINEMA_4D_Editor
+    2100000: No Name
+    2300000: 01
+    2300002: 01_1
+    2300004: 02
+    2300006: 02_1
+    2300008: 03
+    2300010: 03_1
+    2300012: Round clean
+    2300014: Round dirty
+    2300016: Square clean
+    2300018: Square dirty
+    2300020: Triangle clean
+    2300022: Triangle dirty
+    3300000: 01
+    3300002: 01_1
+    3300004: 02
+    3300006: 02_1
+    3300008: 03
+    3300010: 03_1
+    3300012: Round clean
+    3300014: Round dirty
+    3300016: Square clean
+    3300018: Square dirty
+    3300020: Triangle clean
+    3300022: Triangle dirty
+    4300000: 01_1
+    4300002: 02_1
+    4300004: 03_1
+    4300006: 03
+    4300008: 02
+    4300010: 01
+    4300012: Round dirty
+    4300014: Triangle dirty
+    4300016: Square dirty
+    4300018: Square clean
+    4300020: Triangle clean
+    4300022: Round clean
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
