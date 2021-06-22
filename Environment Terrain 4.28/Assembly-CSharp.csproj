@@ -71,6 +71,9 @@
     <Compile Include="Assets/Scripts/RampTrigger.cs" />
     <Compile Include="Assets/Scripts/CameraController.cs" />
     <Compile Include="Assets/Scripts/RampScript.cs" />
+    <Compile Include="Assets/Scripts/PlayerControlScripts/PlayerController.cs" />
+    <Compile Include="Assets/Scripts/PlayerControlScripts/PlayerCamFollow.cs" />
+    <Compile Include="Assets/Scripts/PlayerControlScripts/HelloWorldManager.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets/Samples/Terrain Tools/0.1.0-preview/Terrain Assets/ThirdPartyNotices.txt" />

@@ -147,3 +147,489 @@ System memory in use after: 173.4 MB.
 Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3256.
 Total: 31.715947 ms (FindLiveObjects: 2.949386 ms CreateObjectMapping: 0.604936 ms MarkObjects: 28.000248 ms  DeleteObjects: 0.158586 ms)
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012272 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 2.27 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.175 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.03 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2790 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 173.5 MB.
+System memory in use after: 173.7 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3259.
+Total: 7.042815 ms (FindLiveObjects: 0.843348 ms CreateObjectMapping: 0.511464 ms MarkObjects: 5.623819 ms  DeleteObjects: 0.060831 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1991.508330 seconds.
+  path: Assets/Scripts/PlayerControlScripts/PlayerController.cs
+  artifactKey: Guid(2161c09725ac449c99d75cd7594f0691) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerControlScripts/PlayerController.cs using Guid(2161c09725ac449c99d75cd7594f0691) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71f3272391f5b888ffd5c86387fefdab') in 1.708781 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010248 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 4.09 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.409 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 3.86 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2791 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 178.2 MB.
+System memory in use after: 178.5 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3263.
+Total: 67.928482 ms (FindLiveObjects: 1.250176 ms CreateObjectMapping: 0.765610 ms MarkObjects: 65.217298 ms  DeleteObjects: 0.691272 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008490 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 8.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.713 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2791 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 178.5 MB.
+System memory in use after: 178.7 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3266.
+Total: 17.232676 ms (FindLiveObjects: 0.651059 ms CreateObjectMapping: 0.649867 ms MarkObjects: 15.837204 ms  DeleteObjects: 0.092490 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 98.164649 seconds.
+  path: Assets/Scripts/PlayerControlScripts/PlayerController.cs
+  artifactKey: Guid(2161c09725ac449c99d75cd7594f0691) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerControlScripts/PlayerController.cs using Guid(2161c09725ac449c99d75cd7594f0691) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b618d9155db1a15312f7ef2b53cc2270') in 0.027849 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 69.542487 seconds.
+  path: Assets/Scripts/PlayerControlScripts/PlayerCamFollow.cs
+  artifactKey: Guid(96c076ac6068a41758fed552ca5838ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerControlScripts/PlayerCamFollow.cs using Guid(96c076ac6068a41758fed552ca5838ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15c2d0d261c2677d58b994a3fcbf9b1f') in 0.032220 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004316 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.87 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.426 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.04 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2792 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 178.7 MB.
+System memory in use after: 178.9 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3270.
+Total: 15.154322 ms (FindLiveObjects: 2.554430 ms CreateObjectMapping: 1.123929 ms MarkObjects: 11.376882 ms  DeleteObjects: 0.094942 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004274 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.607 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.26 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2792 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 178.9 MB.
+System memory in use after: 179.1 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3273.
+Total: 26.774439 ms (FindLiveObjects: 5.921235 ms CreateObjectMapping: 0.463390 ms MarkObjects: 20.316295 ms  DeleteObjects: 0.069079 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 88.709167 seconds.
+  path: Assets/Scripts/PlayerControlScripts/PlayerCamFollow.cs
+  artifactKey: Guid(96c076ac6068a41758fed552ca5838ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerControlScripts/PlayerCamFollow.cs using Guid(96c076ac6068a41758fed552ca5838ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99af7b738ddef2c3d3f90117d9d4bb1d') in 0.026582 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007433 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.559 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.91 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2792 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 179.1 MB.
+System memory in use after: 179.3 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3276.
+Total: 4.404339 ms (FindLiveObjects: 0.376777 ms CreateObjectMapping: 0.174761 ms MarkObjects: 3.785646 ms  DeleteObjects: 0.064958 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012396 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.77 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.397 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.88 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2792 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 179.3 MB.
+System memory in use after: 179.6 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3279.
+Total: 7.087940 ms (FindLiveObjects: 0.719493 ms CreateObjectMapping: 0.294392 ms MarkObjects: 5.979742 ms  DeleteObjects: 0.090440 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 517.003772 seconds.
+  path: Assets/Scripts/PlayerControlScripts/HelloWorldManager.cs
+  artifactKey: Guid(d55e1a987d4df4cfbb07a1fd79cbfd95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerControlScripts/HelloWorldManager.cs using Guid(d55e1a987d4df4cfbb07a1fd79cbfd95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc9d493ed48ddbd87ca03cb1b422a1f0') in 0.240511 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004780 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.84 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.269 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.87 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2793 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 179.6 MB.
+System memory in use after: 179.8 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3283.
+Total: 10.517208 ms (FindLiveObjects: 0.955066 ms CreateObjectMapping: 0.338182 ms MarkObjects: 9.153782 ms  DeleteObjects: 0.067636 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 74.229938 seconds.
+  path: Assets/Scripts/PlayerControlScripts/HelloWorldManager.cs
+  artifactKey: Guid(d55e1a987d4df4cfbb07a1fd79cbfd95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerControlScripts/HelloWorldManager.cs using Guid(d55e1a987d4df4cfbb07a1fd79cbfd95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a04a66fc9003dfd13e8fa32f436a9c7') in 0.158419 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 32.520801 seconds.
+  path: Assets/Scripts/PlayerControlScripts/HelloWoldPlayer.cs
+  artifactKey: Guid(9fe2e17b6cb1e4984a5fe5d4726b67b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerControlScripts/HelloWoldPlayer.cs using Guid(9fe2e17b6cb1e4984a5fe5d4726b67b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e06ca9d66d50714b6b08fce066bdd1b') in 0.005567 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006506 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 1.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.670 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.55 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2794 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 179.8 MB.
+System memory in use after: 180.0 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3287.
+Total: 12.079515 ms (FindLiveObjects: 1.002698 ms CreateObjectMapping: 0.404500 ms MarkObjects: 10.600683 ms  DeleteObjects: 0.068930 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.078844 seconds.
+  path: Assets/Scripts/PlayerControlScripts/HelloWoldPlayer.cs
+  artifactKey: Guid(9fe2e17b6cb1e4984a5fe5d4726b67b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerControlScripts/HelloWoldPlayer.cs using Guid(9fe2e17b6cb1e4984a5fe5d4726b67b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82956707be24914be2dd684b905d44c6') in 0.021367 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004521 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.87 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.568 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.92 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2794 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 180.0 MB.
+System memory in use after: 180.2 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3290.
+Total: 15.048573 ms (FindLiveObjects: 1.839648 ms CreateObjectMapping: 0.635137 ms MarkObjects: 12.508602 ms  DeleteObjects: 0.061833 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 333.312849 seconds.
+  path: Assets/Scripts/PlayerControlScripts/HWP.cs
+  artifactKey: Guid(15ba4c506b0aa484eaf763b865b0b43b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerControlScripts/HWP.cs using Guid(15ba4c506b0aa484eaf763b865b0b43b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '340cc68e1e15b478bdb636d957cd89dc') in 0.133685 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004648 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.83 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.351 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.91 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2795 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 180.2 MB.
+System memory in use after: 180.4 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3294.
+Total: 5.843271 ms (FindLiveObjects: 0.429205 ms CreateObjectMapping: 0.352326 ms MarkObjects: 4.991268 ms  DeleteObjects: 0.067804 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.770396 seconds.
+  path: Assets/Scripts/desktop.ini
+  artifactKey: Guid(a54ca168c01ca6c4cbcae78d192786e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/desktop.ini using Guid(a54ca168c01ca6c4cbcae78d192786e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4404ba7c4fbf1dfaaf0d4344aa69a2b8') in 1.357072 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004674 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.84 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.442 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.90 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2795 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 184.7 MB.
+System memory in use after: 184.9 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3297.
+Total: 6.617223 ms (FindLiveObjects: 1.259439 ms CreateObjectMapping: 0.500543 ms MarkObjects: 4.776930 ms  DeleteObjects: 0.077785 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 76.509055 seconds.
+  path: Assets/Scripts/PlayerControlScripts/HWP.cs
+  artifactKey: Guid(15ba4c506b0aa484eaf763b865b0b43b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerControlScripts/HWP.cs using Guid(15ba4c506b0aa484eaf763b865b0b43b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c879eb97a3cc64beca5583a8a34f1f9') in 0.030957 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000447 seconds.
+  path: Assets/Scripts/PlayerControlScripts/HelloWoldPlayer.cs
+  artifactKey: Guid(9fe2e17b6cb1e4984a5fe5d4726b67b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerControlScripts/HelloWoldPlayer.cs using Guid(9fe2e17b6cb1e4984a5fe5d4726b67b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82bb4438593723e74ae935271563f162') in 0.002842 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.103245 seconds.
+  path: Assets/Scripts/PlayerControlScripts/PlayerCamFollow.cs
+  artifactKey: Guid(96c076ac6068a41758fed552ca5838ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerControlScripts/PlayerCamFollow.cs using Guid(96c076ac6068a41758fed552ca5838ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99bfb0dd29024f99dc6d55a4f19e56fb') in 0.005919 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 24.748337 seconds.
+  path: Assets/Scripts/PlayerControlScripts/HWP.cs
+  artifactKey: Guid(15ba4c506b0aa484eaf763b865b0b43b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerControlScripts/HWP.cs using Guid(15ba4c506b0aa484eaf763b865b0b43b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7e78262ca8b65ac5c48aa82b26dac3a') in 0.028983 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.289412 seconds.
+  path: Assets/Scripts/PlayerControlScripts/HelloWoldPlayer.cs
+  artifactKey: Guid(15ba4c506b0aa484eaf763b865b0b43b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerControlScripts/HelloWoldPlayer.cs using Guid(15ba4c506b0aa484eaf763b865b0b43b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdc3879906fc0de0972057d4e4951a13') in 0.007812 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 83.878258 seconds.
+  path: Assets/Scripts/PlayerControlScripts/hwp.cs
+  artifactKey: Guid(6d511c12b7cd64a70bec20b1edd0d934) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerControlScripts/hwp.cs using Guid(6d511c12b7cd64a70bec20b1edd0d934) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '619a4452f06d3ceee4f5b23769db7397') in 0.064922 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 44.686854 seconds.
+  path: Assets/Scripts/PlayerControlScripts/hwp.cs
+  artifactKey: Guid(6d511c12b7cd64a70bec20b1edd0d934) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerControlScripts/hwp.cs using Guid(6d511c12b7cd64a70bec20b1edd0d934) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51a112d852a5c33a35800ae810784a88') in 0.026979 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 76.524720 seconds.
+  path: Assets/Scripts/PlayerControlScripts/HelloWoldPlay.cs
+  artifactKey: Guid(15ba4c506b0aa484eaf763b865b0b43b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerControlScripts/HelloWoldPlay.cs using Guid(15ba4c506b0aa484eaf763b865b0b43b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fbdf2e58392918b762efd9d415f5f6a') in 0.049469 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 82.935708 seconds.
+  path: Assets/AsteroidPack/Textures/Asteroid_01_S/Asteroid_01_S_Height.png
+  artifactKey: Guid(f80925b95e8214045a36efe9fb8136ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AsteroidPack/Textures/Asteroid_01_S/Asteroid_01_S_Height.png using Guid(f80925b95e8214045a36efe9fb8136ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ed897c932dae5a8368a619af0b60798') in 4.629273 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000843 seconds.
+  path: Assets/Standard Assets/Effects/ImageEffects/Textures/HexShape.psd
+  artifactKey: Guid(a4cdca73d61814d33ac1587f6c163bca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Standard Assets/Effects/ImageEffects/Textures/HexShape.psd using Guid(a4cdca73d61814d33ac1587f6c163bca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35affd6e0030479b44a0b964e1371f9b') in 2.290552 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000642 seconds.
+  path: Assets/AsteroidPack/Textures/Asteroid_03_L/Asteroid_03_L_Height.png
+  artifactKey: Guid(dd75b9a9fe68fed49ac2bc99a1d46ae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AsteroidPack/Textures/Asteroid_03_L/Asteroid_03_L_Height.png using Guid(dd75b9a9fe68fed49ac2bc99a1d46ae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c851a5c58c10825570bf7cf7ccfea62a') in 0.095799 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000474 seconds.
+  path: Assets/AsteroidPack/Textures/Asteroid_02_M/Asteroid_02_M_Height.png
+  artifactKey: Guid(7b90e7b8d0ce6bb41b8f0a3481e8b3de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AsteroidPack/Textures/Asteroid_02_M/Asteroid_02_M_Height.png using Guid(7b90e7b8d0ce6bb41b8f0a3481e8b3de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0adf4e02ab160cb5ed31f3e9cb5f8b6') in 0.045390 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001721 seconds.
+  path: Assets/AsteroidPack/Textures/Asteroid_PixelMake_Logo/Asteroid_PixelMake_Logo_Height.png
+  artifactKey: Guid(9d8245a0ec9931b4c918b4faf8c013b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AsteroidPack/Textures/Asteroid_PixelMake_Logo/Asteroid_PixelMake_Logo_Height.png using Guid(9d8245a0ec9931b4c918b4faf8c013b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fac464b54130635248c5b0dda57fc561') in 0.058728 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.002058 seconds.
+  path: Assets/Samples/Terrain Tools/0.1.0-preview/Terrain Assets/BrushTextures/HeightmapTexture.preset
+  artifactKey: Guid(3673edd4bef6add4aaf606245092507c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Terrain Tools/0.1.0-preview/Terrain Assets/BrushTextures/HeightmapTexture.preset using Guid(3673edd4bef6add4aaf606245092507c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6e325e2e91de112a080a90feb5862ce') in 1.668619 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000606 seconds.
+  path: Assets/AsteroidPack/Textures/Asteroid_04_XL/Asteroid_04_XL_Height.png
+  artifactKey: Guid(f4eb31539bb503948bec13ff5b962a84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AsteroidPack/Textures/Asteroid_04_XL/Asteroid_04_XL_Height.png using Guid(f4eb31539bb503948bec13ff5b962a84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbded612c24944f0a806968381115271') in 0.032770 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000438 seconds.
+  path: Assets/AsteroidPack/Textures/Asteroid_05_XXL/Asteroid_05_XXL_Height.png
+  artifactKey: Guid(320af5e721c83bd4ca5f924accc7da41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AsteroidPack/Textures/Asteroid_05_XXL/Asteroid_05_XXL_Height.png using Guid(320af5e721c83bd4ca5f924accc7da41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54757c2293386af7a4bfe359b6db6425') in 0.070038 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.268239 seconds.
+  path: Assets/HelloWorldPlayer.cs
+  artifactKey: Guid(33ffee2524442471fafd2fc6836496cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HelloWorldPlayer.cs using Guid(33ffee2524442471fafd2fc6836496cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a77c7787510809d6c1fa93f2e57146db') in 0.013776 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 104.233777 seconds.
+  path: Assets/HelloWorldPlayer.cs
+  artifactKey: Guid(33ffee2524442471fafd2fc6836496cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HelloWorldPlayer.cs using Guid(33ffee2524442471fafd2fc6836496cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '775009ddc34d0ee173b298c8aa2c78f9') in 0.026444 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 65.169228 seconds.
+  path: Assets/Scripts/PlayerControlScripts/HelloWoldPlay.cs
+  artifactKey: Guid(15ba4c506b0aa484eaf763b865b0b43b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerControlScripts/HelloWoldPlay.cs using Guid(15ba4c506b0aa484eaf763b865b0b43b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '556dbb875e3324e2d5b7c392fecbf73c') in 0.004645 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.739112 seconds.
+  path: Assets/Hand Painted Seamless ClayGround Texture/Textures/Albedo_ClayGround_WithStones.tga
+  artifactKey: Guid(8e40ca17368b4bb40bbe1964844b2c2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Hand Painted Seamless ClayGround Texture/Textures/Albedo_ClayGround_WithStones.tga using Guid(8e40ca17368b4bb40bbe1964844b2c2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc5020afb3956f5df2bb62777fa8c276') in 2.626055 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000502 seconds.
+  path: Assets/Free/Desert Rock/Textures/Desert Rock_512_Roughness.tga
+  artifactKey: Guid(2bb89817dd84f564f89a8371f51645e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free/Desert Rock/Textures/Desert Rock_512_Roughness.tga using Guid(2bb89817dd84f564f89a8371f51645e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ba53c9b0c0218780a5f73f30339aff4') in 0.021152 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000441 seconds.
+  path: Assets/SinuousShrooms/Prefabs/Cluster_Shroom1.prefab
+  artifactKey: Guid(3829a4e580ff6464d98ae3c7b4ce735c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SinuousShrooms/Prefabs/Cluster_Shroom1.prefab using Guid(3829a4e580ff6464d98ae3c7b4ce735c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a086ecfc06df69a22cd5f02b8fdc3a1') in 2.978371 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000480 seconds.
+  path: Assets/SinuousShrooms/Prefabs/Cluster_Shroom2.prefab
+  artifactKey: Guid(fbdbb821504812547aabe35c18c1b08b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SinuousShrooms/Prefabs/Cluster_Shroom2.prefab using Guid(fbdbb821504812547aabe35c18c1b08b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb0554b62ba916670e1ff724111ed176') in 0.036197 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000562 seconds.
+  path: Assets/Samples/Terrain Tools/0.1.0-preview/Terrain Assets/BrushTextures/cracked_earth01.tif
+  artifactKey: Guid(fc6089e3bffbdc9489980dbed57a64f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Terrain Tools/0.1.0-preview/Terrain Assets/BrushTextures/cracked_earth01.tif using Guid(fc6089e3bffbdc9489980dbed57a64f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b46a8b9fd24e2870d0f8e7ed446033cb') in 1.846211 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000621 seconds.
+  path: Assets/SinuousShrooms/Prefabs/Cluster_Shroom4.prefab
+  artifactKey: Guid(2cb4cb515bfe3564fa857504c39ca714) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SinuousShrooms/Prefabs/Cluster_Shroom4.prefab using Guid(2cb4cb515bfe3564fa857504c39ca714) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b02f1bd141592e290bcb416136fc133d') in 0.158519 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000450 seconds.
+  path: Assets/SpiderOrange/Texture/Ambient Occlusion Map from Mesh DefaultMaterial.png
+  artifactKey: Guid(98b4ded919fb9184a830ac128a98ec22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpiderOrange/Texture/Ambient Occlusion Map from Mesh DefaultMaterial.png using Guid(98b4ded919fb9184a830ac128a98ec22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24d6a171b89ad563da20cd2f28a43004') in 0.076745 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.001027 seconds.
+  path: Assets/SinuousShrooms/Prefabs/Cluster_Shroom3.prefab
+  artifactKey: Guid(e2d88ada92e9c8842ad0ce726a9d3dfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SinuousShrooms/Prefabs/Cluster_Shroom3.prefab using Guid(e2d88ada92e9c8842ad0ce726a9d3dfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce9d054bc8e20a2e4a00a98a0f0e64ce') in 0.056424 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.004643 seconds.
+  path: Assets/Free/Desert Rock/Textures/Desert Rock_4K_Roughness.tga
+  artifactKey: Guid(b7fa6c3d79d12744bab1f8f1246eb624) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free/Desert Rock/Textures/Desert Rock_4K_Roughness.tga using Guid(b7fa6c3d79d12744bab1f8f1246eb624) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '787abd46c65e79c0370d689639f76cf8') in 0.125217 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000583 seconds.
+  path: Assets/Samples/Terrain Tools/0.1.0-preview/Terrain Assets/BrushTextures/cracked_earth02.tif
+  artifactKey: Guid(ce389a44803b703498159190bc7d48af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Terrain Tools/0.1.0-preview/Terrain Assets/BrushTextures/cracked_earth02.tif using Guid(ce389a44803b703498159190bc7d48af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e82a6b710be61c233b1273d6ea191074') in 0.048974 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 187.482101 seconds.
+  path: Assets/Scripts/PlayerControlScripts/RpcTest.cs
+  artifactKey: Guid(c8fbab63455264200b33afabf0ff0c9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerControlScripts/RpcTest.cs using Guid(c8fbab63455264200b33afabf0ff0c9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eeb7ff02f9dcf260af7986b9c2b1b718') in 0.042791 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 107.367982 seconds.
+  path: Assets/Scripts/PlayerControlScripts/RpcTest.cs
+  artifactKey: Guid(c8fbab63455264200b33afabf0ff0c9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerControlScripts/RpcTest.cs using Guid(c8fbab63455264200b33afabf0ff0c9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '974543807a2b610a925ab56b1e167df5') in 0.178373 seconds 

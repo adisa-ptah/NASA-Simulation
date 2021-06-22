@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{F341269A-E622-74E0-A180-7341C553DABC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerControlScripts/RpcTest.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerControlScripts/PlayerController.cs" Line="23" Column="55" />
+      <File FileName="Assets/Scripts/PlayerControlScripts/PlayerCamFollow.cs" />
+      <File FileName="Assets/Scripts/PlayerControlScripts/HelloWorldManager.cs" Line="122" Column="3" />
+      <File FileName="Assets/Scripts/PlayerControlScripts/RpcTest.cs" Line="5" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8d96175d-60fe-4b5c-ac6f-41e2a27ae5f0" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
