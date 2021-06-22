@@ -303,6 +303,7 @@
 -r:"/Applications/Unity/Hub/Editor/2021.1.3f1/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/4.7.1-api/System.Xml.Linq.dll"
 -r:"/Applications/Unity/Hub/Editor/2021.1.3f1/Unity/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll"
 -r:"/Users/USER/Downloads/NASA-Simulation/Environment Terrain 4.28/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
+-r:"/Users/USER/Downloads/NASA-Simulation/Environment Terrain 4.28/Library/PackageCache/com.unity.nuget.mono-cecil@1.10.1-preview.1/Mono.Cecil.dll"
 -r:"/Users/USER/Downloads/NASA-Simulation/Environment Terrain 4.28/Library/PackageCache/com.unity.visualscripting@1.5.2/Editor/VisualScripting.Core/Dependencies/DotNetZip/IonicZip.dll"
 -r:"/Users/USER/Downloads/NASA-Simulation/Environment Terrain 4.28/Library/PackageCache/com.unity.visualscripting@1.5.2/Editor/VisualScripting.Core/Dependencies/YamlDotNet/YamlDotNet.dll"
 -r:"/Users/USER/Downloads/NASA-Simulation/Environment Terrain 4.28/Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Core/Dependencies/MiscUtil/MiscUtil.dll"

@@ -315,6 +315,9 @@
     <Reference Include="Antlr3.Runtime">
       <HintPath>Library/PackageCache/com.unity.visualscripting@1.5.2/Runtime/VisualScripting.Flow/Dependencies/NCalc/Antlr3.Runtime.dll</HintPath>
     </Reference>
+    <Reference Include="Mono.Cecil">
+      <HintPath>Library/PackageCache/com.unity.nuget.mono-cecil@1.10.1-preview.1/Mono.Cecil.dll</HintPath>
+    </Reference>
     <Reference Include="netstandard">
       <HintPath>/Applications/Unity/Hub/Editor/2021.1.3f1/Unity/Unity.app/Contents/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
     </Reference>
@@ -707,6 +710,12 @@
     </Reference>
     <Reference Include="Unity.VisualScripting.Core">
       <HintPath>Library/ScriptAssemblies/Unity.VisualScripting.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Multiplayer.MLAPI.Prototyping">
+      <HintPath>Library/ScriptAssemblies/Unity.Multiplayer.MLAPI.Prototyping.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Multiplayer.MLAPI.Runtime">
+      <HintPath>Library/ScriptAssemblies/Unity.Multiplayer.MLAPI.Runtime.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
