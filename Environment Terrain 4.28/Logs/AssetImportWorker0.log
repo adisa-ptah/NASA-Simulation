@@ -1,0 +1,188 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.3f1 (4bef613afd59) revision 4976481'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.1052; Version 2009; 64bit' Language: 'en' Physical Memory: 24477 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.1.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/User/Desktop/Unity Stuff/NASA-Simulation/Environment Terrain 4.28
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+54423
+Successfully changed project path to: C:/Users/User/Desktop/Unity Stuff/NASA-Simulation/Environment Terrain 4.28
+C:/Users/User/Desktop/Unity Stuff/NASA-Simulation/Environment Terrain 4.28
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 90.09 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.3f1 (4bef613afd59)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/User/Desktop/Unity Stuff/NASA-Simulation/Environment Terrain 4.28/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA TITAN X (Pascal) (ID=0x1b00)
+    Vendor:   NVIDIA
+    VRAM:     12147 MB
+    Driver:   27.21.14.6589
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56004
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002398 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 94.66 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.510 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003811 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.116 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.70 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2681 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 111.9 MB.
+System memory in use after: 112.0 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3149.
+Total: 2.206700 ms (FindLiveObjects: 0.236300 ms CreateObjectMapping: 0.135900 ms MarkObjects: 1.741700 ms  DeleteObjects: 0.092000 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/SpiderOrange/Model/OrangeSpider.fbx
+  artifactKey: Guid(5d67c81cdf5717340b0943f1f80dd628) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpiderOrange/Model/OrangeSpider.fbx using Guid(5d67c81cdf5717340b0943f1f80dd628) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15568eb9a9dde5383a758ba7885bafd4') in 0.216314 seconds 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.99 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.8 MB.
+System memory in use after: 76.1 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3193.
+Total: 2.654600 ms (FindLiveObjects: 0.246900 ms CreateObjectMapping: 0.133800 ms MarkObjects: 2.259600 ms  DeleteObjects: 0.013400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 258.547316 seconds.
+  path: Assets/SinuousShrooms/Models/Shroom_01.FBX
+  artifactKey: Guid(68cda060b749c3f4ab26daa34818fbdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SinuousShrooms/Models/Shroom_01.FBX using Guid(68cda060b749c3f4ab26daa34818fbdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e46acba3f236c0aaf2e67aa929a517ae') in 0.047560 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/SinuousShrooms/Models/Shroom_03.FBX
+  artifactKey: Guid(b6aa70d22c31d124d839f7a4e821e341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SinuousShrooms/Models/Shroom_03.FBX using Guid(b6aa70d22c31d124d839f7a4e821e341) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6504809cf0f1290eecf6bffc688972b6') in 0.038697 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/SinuousShrooms/Models/Shroom_02.FBX
+  artifactKey: Guid(7bd33b7650727254da297fb3551f07c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SinuousShrooms/Models/Shroom_02.FBX using Guid(7bd33b7650727254da297fb3551f07c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5894ddc42dc390fae10726262b7b840') in 0.038334 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003715 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.68 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.023 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.69 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2674 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 129.4 MB.
+System memory in use after: 129.7 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3196.
+Total: 2.263000 ms (FindLiveObjects: 0.294700 ms CreateObjectMapping: 0.136600 ms MarkObjects: 1.810700 ms  DeleteObjects: 0.019700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 685.244810 seconds.
+  path: Assets/SpiderOrange/Materials/SpiderOrange.mat
+  artifactKey: Guid(8d140c75a26043f4097fe39b446c0d55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpiderOrange/Materials/SpiderOrange.mat using Guid(8d140c75a26043f4097fe39b446c0d55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f116f3708b1b3224baffb5bef497754') in 0.102707 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/SpiderOrange/Materials
+  artifactKey: Guid(0d5a53a9c3dcc8044afd7139a4c20c2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpiderOrange/Materials using Guid(0d5a53a9c3dcc8044afd7139a4c20c2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dec007c8cefb1c133ce3f81a6a6aa32e') in 0.010589 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/SpiderOrange/Materials/Ground.mat
+  artifactKey: Guid(44d8ce73570e38b41901fd4a7b2a2f62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpiderOrange/Materials/Ground.mat using Guid(44d8ce73570e38b41901fd4a7b2a2f62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d66d9abff8a665d6b358e7af4e57220') in 0.023781 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.832164 seconds.
+  path: Assets/SpiderOrange/Model
+  artifactKey: Guid(16d1305b6ef9e1e409e972f98226de8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpiderOrange/Model using Guid(16d1305b6ef9e1e409e972f98226de8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64ed62ece3cc2f15a2bfc61739001fe4') in 0.008928 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003592 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.011 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.67 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2674 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 129.5 MB.
+System memory in use after: 129.7 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3200.
+Total: 2.252000 ms (FindLiveObjects: 0.231400 ms CreateObjectMapping: 0.141700 ms MarkObjects: 1.840500 ms  DeleteObjects: 0.037100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003718 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.75 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.026 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.66 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2674 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 129.5 MB.
+System memory in use after: 129.8 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3203.
+Total: 2.569300 ms (FindLiveObjects: 0.315600 ms CreateObjectMapping: 0.139800 ms MarkObjects: 2.094600 ms  DeleteObjects: 0.018000 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
