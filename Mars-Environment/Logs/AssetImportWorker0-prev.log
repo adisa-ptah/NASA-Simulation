@@ -1,0 +1,350 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2021.1.3f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/ariannazurelle/Documents/GitHub/NASA-Simulation/Mars-Environment
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+53452
+Successfully changed project path to: /Users/ariannazurelle/Documents/GitHub/NASA-Simulation/Mars-Environment
+/Users/ariannazurelle/Documents/GitHub/NASA-Simulation/Mars-Environment
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 137.21 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.3f1 (4bef613afd59)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2021.1.3f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/ariannazurelle/Documents/GitHub/NASA-Simulation/Mars-Environment/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+2021-07-03 02:09:54.822 Unity[84702:3300541] (null) preferred device: Apple M1 (high power)
+2021-07-03 02:09:54.822 Unity[84702:3300541] Metal devices available: 1
+2021-07-03 02:09:54.822 Unity[84702:3300541] 0: Apple M1 (high power)
+2021-07-03 02:09:54.823 Unity[84702:3300541] Using device Apple M1 (high power)
+Initializing Metal device caps: Apple M1
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2021.1.3f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2021.1.3f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2021.1.3f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56702
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2021.1.3f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.001196 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 114.00 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.035 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002503 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 112.07 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.208 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2021.1.3f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.06 seconds
+Refreshing native plugins compatible for Editor in 1.13 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4597 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 254.2 MB.
+System memory in use after: 254.2 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 5049.
+Total: 2.353250 ms (FindLiveObjects: 0.330250 ms CreateObjectMapping: 0.139625 ms MarkObjects: 1.705666 ms  DeleteObjects: 0.177042 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Martian surface - rocky area/SampleScene/Sky and Fog Settings Profile.asset
+  artifactKey: Guid(ff091050d8186134ebe68d6cf84cc00b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Martian surface - rocky area/SampleScene/Sky and Fog Settings Profile.asset using Guid(ff091050d8186134ebe68d6cf84cc00b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b80a94ad812b562eaaf6d89cb5c39d6') in 0.585813 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Martian surface - rocky area
+  artifactKey: Guid(f581fe87f452b42e581093d2992da9c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Martian surface - rocky area using Guid(f581fe87f452b42e581093d2992da9c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea98bfb881896a7dee56eeaf73354282') in 0.000842 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/Martian surface - rocky area/SampleScene/Post Processing Profile.asset
+  artifactKey: Guid(723e33edd78f7bb4cb085f02e00b77e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Martian surface - rocky area/SampleScene/Post Processing Profile.asset using Guid(723e33edd78f7bb4cb085f02e00b77e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27eec47d505f976b8f05562bfc97e4d0') in 0.004032 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/Martian surface - rocky area/SampleScene
+  artifactKey: Guid(f28ddcefb0a3b1749b984973deb40aa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Martian surface - rocky area/SampleScene using Guid(f28ddcefb0a3b1749b984973deb40aa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '503194d83c7c3f53f6d35f202e565ee1') in 0.000783 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Martian surface - rocky area/SampleScene/Lightmap-0_comp_dir.png
+  artifactKey: Guid(be92f6f6a6611bd4eb1a0b824b6904cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Martian surface - rocky area/SampleScene/Lightmap-0_comp_dir.png using Guid(be92f6f6a6611bd4eb1a0b824b6904cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd304371dccec255f51bb5a3f51f7cc9') in 0.568005 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Martian surface - rocky area/SampleScene/LightingData.asset
+  artifactKey: Guid(5a4b75cdf725b1b43a0d44077a3d5801) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Martian surface - rocky area/SampleScene/LightingData.asset using Guid(5a4b75cdf725b1b43a0d44077a3d5801) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc0b0b900012d925e060990dadaa2c1d') in 0.003737 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Martian surface - rocky area/New Terrain.asset
+  artifactKey: Guid(eba58b049f23c5f42ae98ea03f46aad6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Martian surface - rocky area/New Terrain.asset using Guid(eba58b049f23c5f42ae98ea03f46aad6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90c2c0fd4d8f176e3fc579b428501a65') in 0.459839 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Martian surface - rocky area/SampleSceneSettings.lighting
+  artifactKey: Guid(42a18df0071063445b4be310d603b472) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Martian surface - rocky area/SampleSceneSettings.lighting using Guid(42a18df0071063445b4be310d603b472) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bfe96c2c16d936003df9368be716f0f') in 0.152992 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Martian surface - rocky area/SampleScene/DefaultSettingsVolumeProfile.asset
+  artifactKey: Guid(aac14b3c575b3df4db587c1648998573) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Martian surface - rocky area/SampleScene/DefaultSettingsVolumeProfile.asset using Guid(aac14b3c575b3df4db587c1648998573) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22c9aa9cfde8c3d058e0ad62021eb405') in 0.002188 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Martian surface - rocky area/SampleScene/Lightmap-0_comp_light.exr
+  artifactKey: Guid(22a8ecd253753a04183881a601d42d85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Martian surface - rocky area/SampleScene/Lightmap-0_comp_light.exr using Guid(22a8ecd253753a04183881a601d42d85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8743e92b8187c005f3e4296ab92adaa9') in 0.496582 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Martian surface - rocky area/SampleScene/Lightmap-0_comp_shadowmask.png
+  artifactKey: Guid(b2183996fb5d34149943741f80bb8b51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Martian surface - rocky area/SampleScene/Lightmap-0_comp_shadowmask.png using Guid(b2183996fb5d34149943741f80bb8b51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c86141e981bb3dea458af5b1bea139d8') in 0.016037 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 16.843321 seconds.
+  path: Assets/Martian surface - rocky area/HDRPDefaultResources
+  artifactKey: Guid(6d65542516adcb445b63ae05a322cb83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Martian surface - rocky area/HDRPDefaultResources using Guid(6d65542516adcb445b63ae05a322cb83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a6e01b887f75708a745fb51476606c8') in 0.001851 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.038502 seconds.
+  path: Assets/Martian surface - rocky area/HDRPDefaultResources/DefaultSceneRoot.prefab
+  artifactKey: Guid(7a95f5b53c0ec1147a4af306fb6362e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Martian surface - rocky area/HDRPDefaultResources/DefaultSceneRoot.prefab using Guid(7a95f5b53c0ec1147a4af306fb6362e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Diagnostics callstack to track who triggered the sub-import:
+ #5 ImportAsset(core::hash_map<AssetDatabase::ImporterID, ImporterInfo, core::hash<AssetDatabase::ImporterID>, std::__1::equal_to<AssetDatabase::ImporterID> > const&, dynamic_array<PostprocessorInfo, 0ul> const&, AssetResolveTracker const&, ImportAssetInputs const&, ImportAssetOutputs&, IImportProgress*)
+ #6 AssetImportWorker::Import(AssetResolver&, WorkerImportPayload const&, WorkerImportResponse&, IImportProgress*, bool*)
+ #7 core::mutable_function<void ()>::DispatchT<void IOService::PostHelper<AssetImportWorkerClient::HandleMessage(ImportRequestMessage const&)::$_9>(AssetImportWorkerClient::HandleMessage(ImportRequestMessage const&)::$_9&&, IOService::WrapCallableInFunctionTag)::'lambda'()>::Dispatch()
+ #8 asio::detail::completion_handler<core::mutable_function<void ()> >::do_complete(asio::detail::task_io_service*, asio::detail::task_io_service_operation*, std::__1::error_code const&, unsigned long)
+ #9 asio::detail::task_io_service::do_run_one(asio::detail::scoped_lock<asio::detail::posix_mutex>&, asio::detail::task_io_service_thread_info&, std::__1::error_code const&)
+ #10 asio::detail::task_io_service::run(std::__1::error_code&)
+ #11 IOService::Run(bool)
+ #12 RunAssetImporterV2()
+ #13 Application::InitializeProject()
+ #14 -[EditorApplication applicationDidFinishLaunching:]
+ #15 __CFNOTIFICATIONCENTER_IS_CALLING_OUT_TO_AN_OBSERVER__
+ #16 ___CFXRegistrationPost_block_invoke
+ #17 _CFXRegistrationPost
+ #18 _CFXNotificationPost
+ #19 -[NSNotificationCenter postNotificationName:object:userInfo:]
+ #20 -[NSApplication _postDidFinishNotification]
+ #21 -[NSApplication _sendFinishLaunchingNotification]
+ #22 -[NSApplication(NSAppleEventHandling) _handleAEOpenEvent:]
+ #23 -[NSApplication(NSAppleEventHandling) _handleCoreEvent:withReplyEvent:]
+ #24 -[NSAppleEventManager dispatchRawAppleEvent:withRawReply:handlerRefCon:]
+ #25 _NSAppleEventManagerGenericHandler
+ #26 _AppleEventsCheckInAppWithBlock
+ #27 _AppleEventsCheckInAppWithBlock
+ #28 aeProcessAppleEvent
+ #29 AEProcessAppleEvent
+ #30 _DPSNextEvent
+ #31 -[NSApplication(NSEvent) _nextEventMatchingEventMask:untilDate:inMode:dequeue:]
+ #32 -[NSApplication run]
+ #33 NSApplicationMain
+ #34 EditorMain(int, char const**)
+ #35 main
+ #36 start
+ #37 ???
+
+Requesting import of Guid(7a95f5b53c0ec1147a4af306fb6362e9) Importer(-1,00000000000000000000000000000000), Assets/Martian surface - rocky area/HDRPDefaultResources/DefaultSceneRoot.prefab from editor
+Resuming Guid(7a95f5b53c0ec1147a4af306fb6362e9) Importer(-1,00000000000000000000000000000000) -> 4a2444879f4678632ff442784d6f65f7 
+Assertion failed on expression: 'state.state == kUpToDate'
+
+Assertion failed on expression: 'state.artifactID == result'
+
+Diagnostics callstack to track who triggered the sub-import:
+ #5 ImportToObjects(core::basic_string<char, core::StringStorageDefault<char> > const&, core::hash_map<AssetDatabase::ImporterID, ImporterInfo, core::hash<AssetDatabase::ImporterID>, std::__1::equal_to<AssetDatabase::ImporterID> > const&, dynamic_array<PostprocessorInfo, 0ul> const&, AssetResolveTracker const&, ImportAssetInputs const&, ImportAssetOutputs&, IImportProgress*)
+ #6 ImportAsset(core::hash_map<AssetDatabase::ImporterID, ImporterInfo, core::hash<AssetDatabase::ImporterID>, std::__1::equal_to<AssetDatabase::ImporterID> > const&, dynamic_array<PostprocessorInfo, 0ul> const&, AssetResolveTracker const&, ImportAssetInputs const&, ImportAssetOutputs&, IImportProgress*)
+ #7 AssetImportWorker::Import(AssetResolver&, WorkerImportPayload const&, WorkerImportResponse&, IImportProgress*, bool*)
+ #8 core::mutable_function<void ()>::DispatchT<void IOService::PostHelper<AssetImportWorkerClient::HandleMessage(ImportRequestMessage const&)::$_9>(AssetImportWorkerClient::HandleMessage(ImportRequestMessage const&)::$_9&&, IOService::WrapCallableInFunctionTag)::'lambda'()>::Dispatch()
+ #9 asio::detail::completion_handler<core::mutable_function<void ()> >::do_complete(asio::detail::task_io_service*, asio::detail::task_io_service_operation*, std::__1::error_code const&, unsigned long)
+ #10 asio::detail::task_io_service::do_run_one(asio::detail::scoped_lock<asio::detail::posix_mutex>&, asio::detail::task_io_service_thread_info&, std::__1::error_code const&)
+ #11 asio::detail::task_io_service::run(std::__1::error_code&)
+ #12 IOService::Run(bool)
+ #13 RunAssetImporterV2()
+ #14 Application::InitializeProject()
+ #15 -[EditorApplication applicationDidFinishLaunching:]
+ #16 __CFNOTIFICATIONCENTER_IS_CALLING_OUT_TO_AN_OBSERVER__
+ #17 ___CFXRegistrationPost_block_invoke
+ #18 _CFXRegistrationPost
+ #19 _CFXNotificationPost
+ #20 -[NSNotificationCenter postNotificationName:object:userInfo:]
+ #21 -[NSApplication _postDidFinishNotification]
+ #22 -[NSApplication _sendFinishLaunchingNotification]
+ #23 -[NSApplication(NSAppleEventHandling) _handleAEOpenEvent:]
+ #24 -[NSApplication(NSAppleEventHandling) _handleCoreEvent:withReplyEvent:]
+ #25 -[NSAppleEventManager dispatchRawAppleEvent:withRawReply:handlerRefCon:]
+ #26 _NSAppleEventManagerGenericHandler
+ #27 _AppleEventsCheckInAppWithBlock
+ #28 _AppleEventsCheckInAppWithBlock
+ #29 aeProcessAppleEvent
+ #30 AEProcessAppleEvent
+ #31 _DPSNextEvent
+ #32 -[NSApplication(NSEvent) _nextEventMatchingEventMask:untilDate:inMode:dequeue:]
+ #33 -[NSApplication run]
+ #34 NSApplicationMain
+ #35 EditorMain(int, char const**)
+ #36 main
+ #37 start
+ #38 ???
+
+Requesting import of Guid(7a95f5b53c0ec1147a4af306fb6362e9) Importer(-1,00000000000000000000000000000000), Assets/Martian surface - rocky area/HDRPDefaultResources/DefaultSceneRoot.prefab from editor
+Resuming Guid(7a95f5b53c0ec1147a4af306fb6362e9) Importer(-1,00000000000000000000000000000000) -> 4a2444879f4678632ff442784d6f65f7 
+Assertion failed on expression: 'state.state == kUpToDate'
+
+Assertion failed on expression: 'state.artifactID == result'
+
+ -> (artifact id: '31f8f1f0606d7c435816f75f27188d07') in 0.166891 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/Martian surface - rocky area/HDRPDefaultResources/Foliage Diffusion Profile.asset
+  artifactKey: Guid(e216ed6831bfca84aa79a137ac9f29df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Martian surface - rocky area/HDRPDefaultResources/Foliage Diffusion Profile.asset using Guid(e216ed6831bfca84aa79a137ac9f29df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c35cfe70a80e463b8444a97a9611e7e0') in 0.001503 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/Martian surface - rocky area/HDRPDefaultResources/HDRenderPipelineAsset.asset
+  artifactKey: Guid(28caec80ad8f19342b423c5d54c9f5cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Martian surface - rocky area/HDRPDefaultResources/HDRenderPipelineAsset.asset using Guid(28caec80ad8f19342b423c5d54c9f5cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0a4b79a7fc7b2f657c6674d61aad20d') in 0.002182 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Martian surface - rocky area/HDRPDefaultResources/Skin Diffusion Profile.asset
+  artifactKey: Guid(f27def270e0fb074a89a7156aa389838) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Martian surface - rocky area/HDRPDefaultResources/Skin Diffusion Profile.asset using Guid(f27def270e0fb074a89a7156aa389838) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9626aaa02951d50c486e10e2b159dd61') in 0.001410 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 27.359589 seconds.
+  path: Assets/Martian surface - rocky area/Textures
+  artifactKey: Guid(e815477dc12797d4d8b36c321145c8df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Martian surface - rocky area/Textures using Guid(e815477dc12797d4d8b36c321145c8df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e052e754947143a6d86fc7b25a100f1') in 0.002146 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.074012 seconds.
+  path: Assets/Martian surface - rocky area/Textures/ColorMap.png
+  artifactKey: Guid(211b4764fa8665d4784a28150e284b3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Martian surface - rocky area/Textures/ColorMap.png using Guid(211b4764fa8665d4784a28150e284b3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01c087bb2de79f71633c7c7fbc926cf7') in 0.023791 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Martian surface - rocky area/Textures/Stone Ground 1_d.png
+  artifactKey: Guid(7acdb272d1aabc1499183baf3e45ef98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Martian surface - rocky area/Textures/Stone Ground 1_d.png using Guid(7acdb272d1aabc1499183baf3e45ef98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1e70fcd40995a6d0bdd81d92eb518ca') in 0.007641 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Martian surface - rocky area/Textures/Normal Map.png
+  artifactKey: Guid(ce27e097b85dfd84e9880598e50c4fa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Martian surface - rocky area/Textures/Normal Map.png using Guid(ce27e097b85dfd84e9880598e50c4fa7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '715a1f0028d74580cbc19dcbe047876d') in 0.048691 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Martian surface - rocky area/Textures/Stone Ground 1.png
+  artifactKey: Guid(c87ac051d2095fa4a996f2af5b734e80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Martian surface - rocky area/Textures/Stone Ground 1.png using Guid(c87ac051d2095fa4a996f2af5b734e80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfef6fcc30dbe0e11c48fc46255f6d31') in 0.007523 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Martian surface - rocky area/Textures/Stone Ground 1_n.png
+  artifactKey: Guid(b5682b0c317f8c04b90aed63e91a3113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Martian surface - rocky area/Textures/Stone Ground 1_n.png using Guid(b5682b0c317f8c04b90aed63e91a3113) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65b9b10b687ddb34213ad9548ce298d7') in 0.007761 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.306775 seconds.
+  path: Assets/Martian surface - rocky area/Materials
+  artifactKey: Guid(490cce5f4cee04c4e9b5f6096471e478) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Martian surface - rocky area/Materials using Guid(490cce5f4cee04c4e9b5f6096471e478) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b6d7022f14e1e8bfe5238e73a2ad8c3') in 0.001336 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.065567 seconds.
+  path: Assets/Martian surface - rocky area/Materials/Terrain Material.mat
+  artifactKey: Guid(0cf56681e7831fc4b8be80e7d0307366) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Martian surface - rocky area/Materials/Terrain Material.mat using Guid(0cf56681e7831fc4b8be80e7d0307366) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Diagnostics callstack to track who triggered the sub-import:
+ #5 GUIDPersistentManagerV2::PathIDToPathNameInternal(int, bool) const
+ #6 PersistentManager::GetStreamNameSpaceInternal(int)
+ #7 PersistentManager::GetSerializedFileIfObjectAvailable(int, long long, PersistentManager::LockFlags)
+ #8 PersistentManager::ReadAndActivateObjectThreaded(int, SerializedObjectIdentifier const&, SerializedFile*, bool, bool, PersistentManager::LockFlags)
+ #9 PersistentManager::ReadObjectThreaded(int, PersistentManager::LockFlags)
+ #10 PersistentManager::ReadObject(int, AwakeFromLoadMode)
+ #11 PPtr<Shader>::operator Shader*() const
+ #12 Material::AwakeFromLoad(AwakeFromLoadMode)
+ #13 AwakeFromLoadQueue::InvokePersistentManagerAwake(AwakeFromLoadQueue::Item*, unsigned int, AwakeFromLoadMode, bool)
+ #14 AwakeFromLoadQueue::PersistentManagerAwakeFromLoad(int, AwakeFromLoadMode, bool)
+ #15 AwakeFromLoadQueue::PersistentManagerAwakeFromLoad()
+ #16 PersistentManager::IntegrateAllThreadedObjects()
+ #17 PersistentManager::LoadAndIntegrateAllPreallocatedObjects(PersistentManager::LockFlags)
+ #18 PersistentManager::ReadObject(int, AwakeFromLoadMode)
+ #19 PPtr<Object>::operator Object*() const
+ #20 PreviewImporter::GenerateAssetData(AssetImportContext&)
+ #21 ImportToObjects(core::basic_string<char, core::StringStorageDefault<char> > const&, core::hash_map<AssetDatabase::ImporterID, ImporterInfo, core::hash<AssetDatabase::ImporterID>, std::__1::equal_to<AssetDatabase::ImporterID> > const&, dynamic_array<PostprocessorInfo, 0ul> const&, AssetResolveTracker const&, ImportAssetInputs const&, ImportAssetOutputs&, IImportProgress*)
+ #22 ImportAsset(core::hash_map<AssetDatabase::ImporterID, ImporterInfo, core::hash<AssetDatabase::ImporterID>, std::__1::equal_to<AssetDatabase::ImporterID> > const&, dynamic_array<PostprocessorInfo, 0ul> const&, AssetResolveTracker const&, ImportAssetInputs const&, ImportAssetOutputs&, IImportProgress*)
+ #23 AssetImportWorker::Import(AssetResolver&, WorkerImportPayload const&, WorkerImportResponse&, IImportProgress*, bool*)
+ #24 core::mutable_function<void ()>::DispatchT<void IOService::PostHelper<AssetImportWorkerClient::HandleMessage(ImportRequestMessage const&)::$_9>(AssetImportWorkerClient::HandleMessage(ImportRequestMessage const&)::$_9&&, IOService::WrapCallableInFunctionTag)::'lambda'()>::Dispatch()
+ #25 asio::detail::completion_handler<core::mutable_function<void ()> >::do_complete(asio::detail::task_io_service*, asio::detail::task_io_service_operation*, std::__1::error_code const&, unsigned long)
+ #26 asio::detail::task_io_service::do_run_one(asio::detail::scoped_lock<asio::detail::posix_mutex>&, asio::detail::task_io_service_thread_info&, std::__1::error_code const&)
+ #27 asio::detail::task_io_service::run(std::__1::error_code&)
+ #28 IOService::Run(bool)
+ #29 RunAssetImporterV2()
+ #30 Application::InitializeProject()
+ #31 -[EditorApplication applicationDidFinishLaunching:]
+ #32 __CFNOTIFICATIONCENTER_IS_CALLING_OUT_TO_AN_OBSERVER__
+ #33 ___CFXRegistrationPost_block_invoke
+ #34 _CFXRegistrationPost
+ #35 _CFXNotificationPost
+ #36 -[NSNotificationCenter postNotificationName:object:userInfo:]
+ #37 -[NSApplication _postDidFinishNotification]
+ #38 -[NSApplication _sendFinishLaunchingNotification]
+ #39 -[NSApplication(NSAppleEventHandling) _handleAEOpenEvent:]
+ #40 -[NSApplication(NSAppleEventHandling) _handleCoreEvent:withReplyEvent:]
+ #41 -[NSAppleEventManager dispatchRawAppleEvent:withRawReply:handlerRefCon:]
+ #42 _NSAppleEventManagerGenericHandler
+ #43 _AppleEventsCheckInAppWithBlock
+ #44 _AppleEventsCheckInAppWithBlock
+ #45 aeProcessAppleEvent
+ #46 AEProcessAppleEvent
+ #47 _DPSNextEvent
+ #48 -[NSApplication(NSEvent) _nextEventMatchingEventMask:untilDate:inMode:dequeue:]
+ #49 -[NSApplication run]
+ #50 NSApplicationMain
+ #51 EditorMain(int, char const**)
+ #52 main
+ #53 start
+ #54 ???
+
+Requesting import of Guid(856237615ce2b79459f220a907fd6710) Importer(-1,00000000000000000000000000000000), Assets/Martian surface - rocky area/Shaders/Terrain Shader Graph.shadergraph from editor
+Resuming Guid(856237615ce2b79459f220a907fd6710) Importer(-1,00000000000000000000000000000000) -> 774a3386f2e90caa6375588ab32e5d2b 
+Assertion failed on expression: 'state.state == kUpToDate'
+
+Assertion failed on expression: 'state.artifactID == result'
+
+ -> (artifact id: '47105dc140015c17bc537c579dc05678') in 0.270202 seconds 
