@@ -1056,6 +1056,7 @@ MonoBehaviour:
     NetworkTransport: {fileID: 609297194}
     RegisteredScenes:
     - SampleScene
+    - PlayerControl
     AllowRuntimeSceneChanges: 0
     NetworkPrefabs:
     - Prefab: {fileID: 4855828386843008916, guid: bf5e847a4a7e64b74b4075d2149c2eaa,
