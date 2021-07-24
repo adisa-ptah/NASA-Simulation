@@ -1,0 +1,695 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2021.1.3f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/adisa/Documents/GitHub/NASA-Simulation/Environment Terrain 4.28
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+65376
+Successfully changed project path to: /Users/adisa/Documents/GitHub/NASA-Simulation/Environment Terrain 4.28
+/Users/adisa/Documents/GitHub/NASA-Simulation/Environment Terrain 4.28
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 101.11 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.3f1 (4bef613afd59)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2021.1.3f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/adisa/Documents/GitHub/NASA-Simulation/Environment Terrain 4.28/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+2021-07-23 11:05:35.485 Unity[69787:8609591] Color LCD preferred device: Intel(R) Iris(TM) Plus Graphics 645 (low power)
+2021-07-23 11:05:35.485 Unity[69787:8609591] Metal devices available: 1
+2021-07-23 11:05:35.485 Unity[69787:8609591] 0: Intel(R) Iris(TM) Plus Graphics 645 (low power)
+2021-07-23 11:05:35.486 Unity[69787:8609591] Using device Intel(R) Iris(TM) Plus Graphics 645 (low power)
+Initializing Metal device caps: Intel(R) Iris(TM) Plus Graphics 645
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2021.1.3f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2021.1.3f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2021.1.3f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56787
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2021.1.3f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.002768 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 100.06 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.274 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.010142 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.73 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.570 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2021.1.3f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.74 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2682 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 168.2 MB.
+System memory in use after: 168.4 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3136.
+Total: 3.946359 ms (FindLiveObjects: 0.274839 ms CreateObjectMapping: 0.139765 ms MarkObjects: 3.458202 ms  DeleteObjects: 0.072154 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/ASSETS_NASA/Boulders/Rock_6.fbx
+  artifactKey: Guid(71bb44319f15e0741846c4fad009f013) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Boulders/Rock_6.fbx using Guid(71bb44319f15e0741846c4fad009f013) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55bc4d017b25675fb920c50af137d4c1') in 0.757295 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/ASSETS_NASA/Boulders/Rock_4.fbx
+  artifactKey: Guid(b58e7fdfb89fbc549b36a69243aee4c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Boulders/Rock_4.fbx using Guid(b58e7fdfb89fbc549b36a69243aee4c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e0cb7ce6af9800242b0ccac3ab91360') in 0.012382 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/ASSETS_NASA/Boulders/Rock_1.fbx
+  artifactKey: Guid(b2d7d77df4449b24fb2fffe6ca115874) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Boulders/Rock_1.fbx using Guid(b2d7d77df4449b24fb2fffe6ca115874) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bfb3d3d57845248aea66b7d94bbcfb1') in 0.013538 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/ASSETS_NASA/Boulders/Rock_5.fbx
+  artifactKey: Guid(18cea87bdb7d0fa46986e492321f3d1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Boulders/Rock_5.fbx using Guid(18cea87bdb7d0fa46986e492321f3d1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14e1b9a5fed4b8308ae8ea557932d56c') in 0.012234 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/ASSETS_NASA/Boulders/Rock_2.fbx
+  artifactKey: Guid(dfed2e9fb3d8ac84da441095f9422543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Boulders/Rock_2.fbx using Guid(dfed2e9fb3d8ac84da441095f9422543) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa2b797fc327fc3ed43b0d2ecf09b3dc') in 0.011747 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/ASSETS_NASA/Boulders/Rock_3.fbx
+  artifactKey: Guid(f902b41e10cdd2d44aaf1ada606f5d3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Boulders/Rock_3.fbx using Guid(f902b41e10cdd2d44aaf1ada606f5d3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06995c54cd2eea168823feded96d830a') in 0.011556 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.729715 seconds.
+  path: Assets/New Terrain.asset
+  artifactKey: Guid(e5c35ffd07e6541feb609f3da895304c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain.asset using Guid(e5c35ffd07e6541feb609f3da895304c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76a234714b0a5fff26bf3c1c4bb2f745') in 0.195510 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/TerrainData_e4b783f9-3e4a-4a4c-b65a-999e82fb1394.asset
+  artifactKey: Guid(8f62fcc798f1140719b3e97d12850fdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_e4b783f9-3e4a-4a4c-b65a-999e82fb1394.asset using Guid(8f62fcc798f1140719b3e97d12850fdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0271d74ff4531207d8d24184204d5221') in 0.021479 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/TerrainData_ebe127fe-5f01-400c-a39c-6989d73a6073.asset
+  artifactKey: Guid(a36ed40d335494763a9daced00ff5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TerrainData_ebe127fe-5f01-400c-a39c-6989d73a6073.asset using Guid(a36ed40d335494763a9daced00ff5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd15f100352fa63b4fe79896a46aaff2d') in 0.022629 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 10.168623 seconds.
+  path: Assets/AsteroidPack/Materials/Asteroid_01_S.mat
+  artifactKey: Guid(9bfd82f37b84f443a835d69ea6e82def) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AsteroidPack/Materials/Asteroid_01_S.mat using Guid(9bfd82f37b84f443a835d69ea6e82def) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e09302d40b257374e06fd10d64c5b1fd') in 0.188053 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Free/Desert Rock/Materials/DesertRock512 Displacement.mat
+  artifactKey: Guid(382cda4fd75cc1043bb28f8256028de0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free/Desert Rock/Materials/DesertRock512 Displacement.mat using Guid(382cda4fd75cc1043bb28f8256028de0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc56a0ed7d88c0012bac16c68da64a47') in 0.694648 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/ASSETS_NASA/Materials/Orange.1.mat
+  artifactKey: Guid(31bf94a71a52adb4f84ef40356426dbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Materials/Orange.1.mat using Guid(31bf94a71a52adb4f84ef40356426dbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '674c5a8801f85f3f19752e60bf3bf61b') in 0.006862 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/ASSETS_NASA/Materials/Gray.3.mat
+  artifactKey: Guid(1b487e4aa512c6c46b231d5aacdceae0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Materials/Gray.3.mat using Guid(1b487e4aa512c6c46b231d5aacdceae0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd381c7b6135dc3ffb2aaf04c417c8a17') in 0.006421 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/ASSETS_NASA/Three signs free/Prefabs/Dirty signs without tube/M003.prefab
+  artifactKey: Guid(732cf0f9b201b2845a0dac625c9a6b93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Three signs free/Prefabs/Dirty signs without tube/M003.prefab using Guid(732cf0f9b201b2845a0dac625c9a6b93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b927224ce062fe6b286fefce531b161b') in 0.861821 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/SinuousShrooms/Prefabs/Shroom_03.prefab
+  artifactKey: Guid(403cae19b9055ab47b3594faaf5da89d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SinuousShrooms/Prefabs/Shroom_03.prefab using Guid(403cae19b9055ab47b3594faaf5da89d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3e2bad00a4dbf5a88901d7e1316cefd') in 0.419622 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/ASSETS_NASA/Three signs free/Models/Tubes.fbx
+  artifactKey: Guid(1d6df7e3def9a2843ac4db442be0e87b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Three signs free/Models/Tubes.fbx using Guid(1d6df7e3def9a2843ac4db442be0e87b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38bb07003e000ead3dd002f9f1cf995f') in 0.070468 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/ASSETS_NASA/Materials/Brown.6.mat
+  artifactKey: Guid(c47a8046d422cf44ab127456e4917876) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Materials/Brown.6.mat using Guid(c47a8046d422cf44ab127456e4917876) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b3aed25148317b881c98c197f922b2d') in 0.012808 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000660 seconds.
+  path: Assets/ASSETS_NASA/Three signs free/Materials/Dirty signs/E-M-W003.mat
+  artifactKey: Guid(cd05f50a997a8c74e86eb689843e9c09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Three signs free/Materials/Dirty signs/E-M-W003.mat using Guid(cd05f50a997a8c74e86eb689843e9c09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8065275e8a8715650ca0dee68841d3a5') in 0.251025 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Course Library/_Source_Files/Materials/Military_Green.mat
+  artifactKey: Guid(7bc72f97a09670a4f9b072e70f88f4cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/_Source_Files/Materials/Military_Green.mat using Guid(7bc72f97a09670a4f9b072e70f88f4cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05813f06b88fd2d205959a17ec1270f9') in 0.015196 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/SinuousShrooms/Prefabs/Shroom_01.prefab
+  artifactKey: Guid(f3659d1c58e928f4287f14b97b5cd15a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SinuousShrooms/Prefabs/Shroom_01.prefab using Guid(f3659d1c58e928f4287f14b97b5cd15a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c6fa069393982832d414ecee405a2d9') in 0.015215 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/ASSETS_NASA/Three signs free/Prefabs/Dirty tubes/Tube 1.prefab
+  artifactKey: Guid(64707c46c1b82274fb247e9e17546c95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Three signs free/Prefabs/Dirty tubes/Tube 1.prefab using Guid(64707c46c1b82274fb247e9e17546c95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b945a70eca7aab3e25bf3aeaedb3b57') in 0.011960 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/ASSETS_NASA/Materials/M_ClayGround_WithStones.mat
+  artifactKey: Guid(7045226a7a506544ab0a056391a2b434) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Materials/M_ClayGround_WithStones.mat using Guid(7045226a7a506544ab0a056391a2b434) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3ac7c8add25bdb082125d56f3d4760c') in 0.163004 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/SinuousShrooms/Prefabs/Cluster_Shroom1.prefab
+  artifactKey: Guid(3829a4e580ff6464d98ae3c7b4ce735c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SinuousShrooms/Prefabs/Cluster_Shroom1.prefab using Guid(3829a4e580ff6464d98ae3c7b4ce735c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a086ecfc06df69a22cd5f02b8fdc3a1') in 0.013626 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/ASSETS_NASA/Materials/Brown.2.mat
+  artifactKey: Guid(f7c2deb7be33c61418c105b4da4da2d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Materials/Brown.2.mat using Guid(f7c2deb7be33c61418c105b4da4da2d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cbc4c78723f2e6a1a0f40e503e7977e') in 0.008537 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Course Library/Sky/MountainSkybox.prefab
+  artifactKey: Guid(5f0963a629b97442587b7f3ece766e42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/Sky/MountainSkybox.prefab using Guid(5f0963a629b97442587b7f3ece766e42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3d1eac62f7b80292ff37aeea4706750') in 0.367508 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/AsteroidPack/Materials/Asteroid_02_M.mat
+  artifactKey: Guid(aa7b93524e2eb411ca98222dd61746b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AsteroidPack/Materials/Asteroid_02_M.mat using Guid(aa7b93524e2eb411ca98222dd61746b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fdcf2873ee6086e641f12570103b173') in 0.019594 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/AsteroidPack/Materials/Asteroid_03_L.mat
+  artifactKey: Guid(63441f3d5db0d44f8be55aa4ad2db60d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AsteroidPack/Materials/Asteroid_03_L.mat using Guid(63441f3d5db0d44f8be55aa4ad2db60d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd7067dc60d4c5613bd3550bf38a6b2b') in 0.011792 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/ASSETS_NASA/Materials/Brown.7.mat
+  artifactKey: Guid(4fe563c5f58ef3f428825ed56c445b80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Materials/Brown.7.mat using Guid(4fe563c5f58ef3f428825ed56c445b80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef37d00e6d70062654fcd094588aea00') in 0.036183 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/ASSETS_NASA/Three signs free/Prefabs/Dirty signs without tube/E003.prefab
+  artifactKey: Guid(34a0118f7a090d74892d852412e167ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Three signs free/Prefabs/Dirty signs without tube/E003.prefab using Guid(34a0118f7a090d74892d852412e167ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f70d01f506d182067de599f34ac6f558') in 0.232586 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000386 seconds.
+  path: Assets/SinuousShrooms/Prefabs/Cluster_Shroom2.prefab
+  artifactKey: Guid(fbdbb821504812547aabe35c18c1b08b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SinuousShrooms/Prefabs/Cluster_Shroom2.prefab using Guid(fbdbb821504812547aabe35c18c1b08b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb0554b62ba916670e1ff724111ed176') in 0.020750 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/ASSETS_NASA/Three signs free/Materials/Clean signs/E-M-W003.mat
+  artifactKey: Guid(ca2545998e586dc4abd7cf8275f2fcb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Three signs free/Materials/Clean signs/E-M-W003.mat using Guid(ca2545998e586dc4abd7cf8275f2fcb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a909c0e4325254bb7145bf4cf689c88') in 0.242782 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/SpiderOrange/Model/OrangeSpider.fbx
+  artifactKey: Guid(5d67c81cdf5717340b0943f1f80dd628) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpiderOrange/Model/OrangeSpider.fbx using Guid(5d67c81cdf5717340b0943f1f80dd628) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0d4f89fb1d622fe26442a8de63ef5d9') in 0.049893 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/SinuousShrooms/Prefabs/Shroom_02.prefab
+  artifactKey: Guid(b0d141d938dc75f498b07e5259f0b343) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SinuousShrooms/Prefabs/Shroom_02.prefab using Guid(b0d141d938dc75f498b07e5259f0b343) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a09b6a94dcbba428e94362e0fd2eb22f') in 0.011758 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/ASSETS_NASA/Materials/Gray.4.mat
+  artifactKey: Guid(55ac68c33cb2d144a9976df607b5e754) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Materials/Gray.4.mat using Guid(55ac68c33cb2d144a9976df607b5e754) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5211446ff7c8bbbb8e208304bb9102a0') in 0.008928 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/ASSETS_NASA/Three signs free/Prefabs/Clean tubes/Tube 4.prefab
+  artifactKey: Guid(38f59847d5224be44bbbb7908441cb74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Three signs free/Prefabs/Clean tubes/Tube 4.prefab using Guid(38f59847d5224be44bbbb7908441cb74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab587aff67d2efcb1b8f896efae774f3') in 0.008703 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/ASSETS_NASA/Materials/Gray.2.mat
+  artifactKey: Guid(e2f44d83259a3c14abd33197677dbc91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Materials/Gray.2.mat using Guid(e2f44d83259a3c14abd33197677dbc91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1b9eb0dd49296c1c448a5e750c7bce3') in 0.029033 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/ASSETS_NASA/Materials/Gray.1.mat
+  artifactKey: Guid(fb5ddc125e5f05b42a1269e0a08850eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Materials/Gray.1.mat using Guid(fb5ddc125e5f05b42a1269e0a08850eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29801d7c8e43503ebef0dc90b7772d4e') in 0.008665 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Course Library/Ground/Ground_Road.prefab
+  artifactKey: Guid(d80c7433031fdee44bf3910c4b046ce7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/Ground/Ground_Road.prefab using Guid(d80c7433031fdee44bf3910c4b046ce7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2857235fe0b1152884bae7e4bb1ad7a2') in 0.021573 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/ASSETS_NASA/Materials/M_ClayGround.mat
+  artifactKey: Guid(c319023b9eace3a408e4f374e3c59e77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Materials/M_ClayGround.mat using Guid(c319023b9eace3a408e4f374e3c59e77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a95f918475340de136febb416a4504f') in 0.028434 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000478 seconds.
+  path: Assets/SinuousShrooms/Prefabs/Cluster_Shroom3.prefab
+  artifactKey: Guid(e2d88ada92e9c8842ad0ce726a9d3dfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SinuousShrooms/Prefabs/Cluster_Shroom3.prefab using Guid(e2d88ada92e9c8842ad0ce726a9d3dfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce9d054bc8e20a2e4a00a98a0f0e64ce') in 0.037737 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/ASSETS_NASA/Three signs free/Prefabs/Clean tubes/Tube 5.prefab
+  artifactKey: Guid(5c2b3644e7a32454bb21ff67c7245464) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Three signs free/Prefabs/Clean tubes/Tube 5.prefab using Guid(5c2b3644e7a32454bb21ff67c7245464) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d8a6ebd83411aa603ade7f087db169b') in 0.021132 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/ASSETS_NASA/Three signs free/Prefabs/Clean tubes/Tube 1.prefab
+  artifactKey: Guid(6b68e03d65b8bbf41ae5e75fb18cd247) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Three signs free/Prefabs/Clean tubes/Tube 1.prefab using Guid(6b68e03d65b8bbf41ae5e75fb18cd247) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1157008e3e7a053930319f08194de550') in 0.026696 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Course Library/Obstacles/Crate_01.prefab
+  artifactKey: Guid(71782582b9d2cac4cba5251a3b767d13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/Obstacles/Crate_01.prefab using Guid(71782582b9d2cac4cba5251a3b767d13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b69437c257d841d197ac3c24a91369bb') in 0.035967 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000900 seconds.
+  path: Assets/ASSETS_NASA/Materials/Brown.11.mat
+  artifactKey: Guid(83993d560011d9f439deb8c980381c74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Materials/Brown.11.mat using Guid(83993d560011d9f439deb8c980381c74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de2c29483ae8a744da8b4aa00f23f148') in 0.018090 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/SpiderOrange/Materials/Ground.mat
+  artifactKey: Guid(44d8ce73570e38b41901fd4a7b2a2f62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpiderOrange/Materials/Ground.mat using Guid(44d8ce73570e38b41901fd4a7b2a2f62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69df28594f3c63965c7ab1a8d90b3d9c') in 0.015078 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/ASSETS_NASA/Three signs free/Prefabs/Dirty tubes/Tube 5.prefab
+  artifactKey: Guid(416780b593da5084a8e449c3840f83bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Three signs free/Prefabs/Dirty tubes/Tube 5.prefab using Guid(416780b593da5084a8e449c3840f83bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80a3cf742495282ca18b95124bb64afd') in 0.009171 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/ASSETS_NASA/Materials/Orange.3.mat
+  artifactKey: Guid(0933253977cd0454b989b8bc25bbdc83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Materials/Orange.3.mat using Guid(0933253977cd0454b989b8bc25bbdc83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6fb273d880775ea9aac691f68ee783c') in 0.182011 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Course Library/Obstacles/Prop_Spool_02.prefab
+  artifactKey: Guid(3daef342e8f3f9548b04424eac7d4d0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/Obstacles/Prop_Spool_02.prefab using Guid(3daef342e8f3f9548b04424eac7d4d0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e85cd18a18aea3f0db9a03106724856') in 0.013339 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/SinuousShrooms/Prefabs/Shroom_04.prefab
+  artifactKey: Guid(be851a8515ac2f241bf3e4061b58371d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SinuousShrooms/Prefabs/Shroom_04.prefab using Guid(be851a8515ac2f241bf3e4061b58371d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0dcbbfb05c3d3f201ac5f601279d357f') in 0.028114 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/ASSETS_NASA/Materials/Brown.3.mat
+  artifactKey: Guid(2852b271d0d088643a66c25efe4b5aa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Materials/Brown.3.mat using Guid(2852b271d0d088643a66c25efe4b5aa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e7009c2177b712d62fc0155e1b65c55') in 0.026682 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Course Library/Obstacles/SM_Rock_Boulder_01.prefab
+  artifactKey: Guid(cdcb19fde9e8cba40b7bff849baf2c1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/Obstacles/SM_Rock_Boulder_01.prefab using Guid(cdcb19fde9e8cba40b7bff849baf2c1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95028bc840ef75a80d54a90d0cd11567') in 0.223096 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/ASSETS_NASA/Three signs free/Prefabs/Clean signs/M003.prefab
+  artifactKey: Guid(7a3c359d22c69e7448d7f3a026032aba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Three signs free/Prefabs/Clean signs/M003.prefab using Guid(7a3c359d22c69e7448d7f3a026032aba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81d31c635a840d647a969c6ace4bbda5') in 0.213394 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/Course Library/Obstacles/Prop_Barrier02.prefab
+  artifactKey: Guid(367149bd17c4d4d4e8868ec6a5cf8d45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/Obstacles/Prop_Barrier02.prefab using Guid(367149bd17c4d4d4e8868ec6a5cf8d45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35323d297893de490f9ed086b5c4b8d8') in 0.180249 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000619 seconds.
+  path: Assets/ASSETS_NASA/Three signs free/Prefabs/Dirty tubes/Tube 3.prefab
+  artifactKey: Guid(1cb695b984ba74f4da94ee1f931e45aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Three signs free/Prefabs/Dirty tubes/Tube 3.prefab using Guid(1cb695b984ba74f4da94ee1f931e45aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a83a191e4d5ea85c9f9ddb798afa50e9') in 0.007957 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/ASSETS_NASA/Three signs free/Prefabs/Clean tubes/Tube 2.prefab
+  artifactKey: Guid(06977071e56faa245aedd10c11800d79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Three signs free/Prefabs/Clean tubes/Tube 2.prefab using Guid(06977071e56faa245aedd10c11800d79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30f4934a86673dbd0c223a21614288fd') in 0.011024 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/AsteroidPack/Materials/Asteroid_04_XL.mat
+  artifactKey: Guid(6a510a377e2ef43e5852ea17dd414c0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AsteroidPack/Materials/Asteroid_04_XL.mat using Guid(6a510a377e2ef43e5852ea17dd414c0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab2f5ad690a64b6fc8bdafaf0ed39955') in 0.006819 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/ASSETS_NASA/Materials/Orange.2.mat
+  artifactKey: Guid(a57c77f070e349e428256669c403a9c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Materials/Orange.2.mat using Guid(a57c77f070e349e428256669c403a9c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '762441150eb0c8fe9f909cc68c9556f2') in 0.006396 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/ASSETS_NASA/Three signs free/Prefabs/Clean signs/E003.prefab
+  artifactKey: Guid(344341a2bb5cdbd4899774d67b3c880f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Three signs free/Prefabs/Clean signs/E003.prefab using Guid(344341a2bb5cdbd4899774d67b3c880f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85bc3eb8843c53621ace92560163e7f8') in 0.224290 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/ASSETS_NASA/Materials/Brown.10.mat
+  artifactKey: Guid(8117e74ca190335479975c5dd8a73f62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Materials/Brown.10.mat using Guid(8117e74ca190335479975c5dd8a73f62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cb9dfebe84f1656f8642fefc2433ab2') in 0.007544 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Free/Desert Rock/Materials/DesertRock4K Displacement.mat
+  artifactKey: Guid(7843873bd9c3b8043a0ee72ad1c16c27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Free/Desert Rock/Materials/DesertRock4K Displacement.mat using Guid(7843873bd9c3b8043a0ee72ad1c16c27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80c9f70a1b2f8496e379c9bfc61a6d15') in 0.034209 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/ASSETS_NASA/Three signs free/Prefabs/Clean signs without tube/E003.prefab
+  artifactKey: Guid(f6c29f8281e9dec409145bac685b6f5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Three signs free/Prefabs/Clean signs without tube/E003.prefab using Guid(f6c29f8281e9dec409145bac685b6f5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '600ba6f9ff9fe69b3cba866c1a3b23e3') in 0.238123 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Course Library/_Source_Files/Materials/MilitaryProps.mat
+  artifactKey: Guid(af9d3101091f90d4db78a2097d5dcb84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/_Source_Files/Materials/MilitaryProps.mat using Guid(af9d3101091f90d4db78a2097d5dcb84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60cbc8a121518d169fb383c2590355c2') in 0.009483 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/ASSETS_NASA/Three signs free/Prefabs/Clean signs without tube/M003.prefab
+  artifactKey: Guid(f4e0af0a1c3e2ee42a63c150e82ce018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Three signs free/Prefabs/Clean signs without tube/M003.prefab using Guid(f4e0af0a1c3e2ee42a63c150e82ce018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ecf144e1eec9d2f7a6de8e1f218ee3c') in 0.209304 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/ASSETS_NASA/Three signs free/Prefabs/Dirty tubes/Tube 4.prefab
+  artifactKey: Guid(37d8597f4d5167349ae689122b7682a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Three signs free/Prefabs/Dirty tubes/Tube 4.prefab using Guid(37d8597f4d5167349ae689122b7682a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f6a16e34e011d4e76b8f5c63c571a2f') in 0.010059 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/ASSETS_NASA/Three signs free/Prefabs/Dirty signs/M003.prefab
+  artifactKey: Guid(cd6bf2631843324448584061ff87dc4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Three signs free/Prefabs/Dirty signs/M003.prefab using Guid(cd6bf2631843324448584061ff87dc4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a940590898438e214b88cc394177199b') in 0.257995 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/ASSETS_NASA/Materials/Brown.15.mat
+  artifactKey: Guid(27eb693623b74ae409ad01480c04d7d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Materials/Brown.15.mat using Guid(27eb693623b74ae409ad01480c04d7d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e860113b7a2cc292268fb70841ef4dd8') in 0.009317 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/ASSETS_NASA/Three signs free/Prefabs/Dirty tubes/Tube 2.prefab
+  artifactKey: Guid(6d125f3027e5cc84f9a3f04e85dbe0bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Three signs free/Prefabs/Dirty tubes/Tube 2.prefab using Guid(6d125f3027e5cc84f9a3f04e85dbe0bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc6759824bcea4b49d9ce431ec43ff2c') in 0.016000 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/ASSETS_NASA/Three signs free/Prefabs/Clean tubes/Tube 3.prefab
+  artifactKey: Guid(8837efb21329d0f4c9d9a357f64566e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Three signs free/Prefabs/Clean tubes/Tube 3.prefab using Guid(8837efb21329d0f4c9d9a357f64566e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '322f75b98b4ac75d211c7a5d8b6ba293') in 0.025917 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/ASSETS_NASA/Materials/Brown.8.mat
+  artifactKey: Guid(fc45bd3e9d781c6469cb7e33fd1c8bd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Materials/Brown.8.mat using Guid(fc45bd3e9d781c6469cb7e33fd1c8bd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e23cad2f127c71eb247a7421ea3ef8b') in 0.032123 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/ASSETS_NASA/Terrain/Materials/Green.13.mat
+  artifactKey: Guid(fbf5a2e882585479ebf053856f56d1f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Terrain/Materials/Green.13.mat using Guid(fbf5a2e882585479ebf053856f56d1f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6217536f2bd967fe01cc0334ca14048b') in 0.018762 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/AsteroidPack/Materials/Asteroid_05_XXL.mat
+  artifactKey: Guid(2d1bfd51038374d30bf5f9b5a81b8a40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AsteroidPack/Materials/Asteroid_05_XXL.mat using Guid(2d1bfd51038374d30bf5f9b5a81b8a40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0de94e47d2f0a3a8772f1abd1bc69764') in 0.007433 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/ASSETS_NASA/Materials/Brown.14.mat
+  artifactKey: Guid(7e5b0a9678b8426468b771b1050eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Materials/Brown.14.mat using Guid(7e5b0a9678b8426468b771b1050eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adc1cdc048eb2e6889aa0ddeb5d44e5a') in 0.022053 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/SinuousShrooms/Prefabs/Cluster_Shroom4.prefab
+  artifactKey: Guid(2cb4cb515bfe3564fa857504c39ca714) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SinuousShrooms/Prefabs/Cluster_Shroom4.prefab using Guid(2cb4cb515bfe3564fa857504c39ca714) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b02f1bd141592e290bcb416136fc133d') in 0.032135 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/AsteroidPack/Materials/Asteroid_PixelMake_Logo.mat
+  artifactKey: Guid(c0aa55847e8384fc9848430c2ba58eaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AsteroidPack/Materials/Asteroid_PixelMake_Logo.mat using Guid(c0aa55847e8384fc9848430c2ba58eaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c97cc85353e4f95fdce6912740de898d') in 0.021862 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/Course Library/Obstacles/Barrel_02.prefab
+  artifactKey: Guid(cb04eea70ee14ab49b68d12e2cbbf680) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/Obstacles/Barrel_02.prefab using Guid(cb04eea70ee14ab49b68d12e2cbbf680) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12f7305d761a58847f4549c576af64ca') in 0.029962 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/ASSETS_NASA/Materials/Brown.4.mat
+  artifactKey: Guid(ca030f1a8877487408d9e0ba65b2ec80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Materials/Brown.4.mat using Guid(ca030f1a8877487408d9e0ba65b2ec80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f06141cb57797877a0cb481fc5ba9b6b') in 0.023575 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/ASSETS_NASA/Materials/Brown.5.mat
+  artifactKey: Guid(123ed9969563dc5468cd867af56caab9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Materials/Brown.5.mat using Guid(123ed9969563dc5468cd867af56caab9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ed25ca436d838c5ed33ca0156ba3d58') in 0.014190 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Course Library/Vehicles/Veh_Armor_Car_01.prefab
+  artifactKey: Guid(aea2a6cdcc9d7944090d528486ebaee1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/Vehicles/Veh_Armor_Car_01.prefab using Guid(aea2a6cdcc9d7944090d528486ebaee1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ffe20ddd50805bf3e7b40100063baa7') in 0.025049 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/ASSETS_NASA/Three signs free/Prefabs/Dirty signs/E003.prefab
+  artifactKey: Guid(2ffb6888f9ca05949981b85752b57a44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Three signs free/Prefabs/Dirty signs/E003.prefab using Guid(2ffb6888f9ca05949981b85752b57a44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3948c9334582b0d6bebee33335e7b60') in 0.228126 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/ASSETS_NASA/Materials/Brown.9.mat
+  artifactKey: Guid(94387ac3fe852d549966d245def277be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Materials/Brown.9.mat using Guid(94387ac3fe852d549966d245def277be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13979353ed48440a5d71cb4942a952fe') in 0.013325 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.007068 seconds.
+  path: Assets/Course Library/Obstacles/Prop_Barrier01.prefab
+  artifactKey: Guid(ee7d0c4ddd804dd4e95f705d43c9135e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/Obstacles/Prop_Barrier01.prefab using Guid(ee7d0c4ddd804dd4e95f705d43c9135e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a815774ae1579efe155416b0767411b5') in 0.030503 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/Course Library/Sky/SkyDome.prefab
+  artifactKey: Guid(51a084e4035b24e76997744a50c711d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/Sky/SkyDome.prefab using Guid(51a084e4035b24e76997744a50c711d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '460503cf4e476cc821b2b69f1cf84431') in 0.067085 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/SpiderOrange/Prefab/SpiderOrange.prefab
+  artifactKey: Guid(5c7f0950aa535ce4faef155ad244c136) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SpiderOrange/Prefab/SpiderOrange.prefab using Guid(5c7f0950aa535ce4faef155ad244c136) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56a44496f284b94f35a1d85cb3aa174b') in 0.050870 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.343184 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(b925f0bb9851b4351ae787f49ac404a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(b925f0bb9851b4351ae787f49ac404a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72a02b2535a820a50a3a0fdba4333d6e') in 0.001015 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.422854 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f528247b6688fad00b16914ae027136') in 0.001613 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002061 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.294 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.63 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2678 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 212.4 MB.
+System memory in use after: 212.6 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3233.
+Total: 2.377881 ms (FindLiveObjects: 0.279391 ms CreateObjectMapping: 0.132717 ms MarkObjects: 1.938880 ms  DeleteObjects: 0.025598 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002680 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.234 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.60 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2675 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 212.5 MB.
+System memory in use after: 212.7 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3236.
+Total: 2.576529 ms (FindLiveObjects: 0.408648 ms CreateObjectMapping: 0.197749 ms MarkObjects: 1.951654 ms  DeleteObjects: 0.016910 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001984 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.71 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.228 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.23 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2675 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 212.7 MB.
+System memory in use after: 212.9 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3239.
+Total: 2.605602 ms (FindLiveObjects: 0.284210 ms CreateObjectMapping: 0.179368 ms MarkObjects: 2.122208 ms  DeleteObjects: 0.018213 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001914 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.73 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.207 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.77 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2675 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 212.9 MB.
+System memory in use after: 213.1 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3242.
+Total: 2.327889 ms (FindLiveObjects: 0.269358 ms CreateObjectMapping: 0.125756 ms MarkObjects: 1.910445 ms  DeleteObjects: 0.019968 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001564 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.170 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.60 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2675 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 213.1 MB.
+System memory in use after: 213.3 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3245.
+Total: 2.596060 ms (FindLiveObjects: 0.266963 ms CreateObjectMapping: 0.134764 ms MarkObjects: 2.174065 ms  DeleteObjects: 0.018970 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006502 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.62 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.246 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.61 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2675 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 213.3 MB.
+System memory in use after: 213.5 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3248.
+Total: 2.396174 ms (FindLiveObjects: 0.309687 ms CreateObjectMapping: 0.159705 ms MarkObjects: 1.909042 ms  DeleteObjects: 0.016081 ms)
+
