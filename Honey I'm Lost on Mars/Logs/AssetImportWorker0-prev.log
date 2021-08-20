@@ -1,0 +1,625 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.3f1 (4bef613afd59) revision 4976481'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19043.1165; Version 2009; 64bit' Language: 'en' Physical Memory: 7541 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.1.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/mnmcs/Desktop/GitHub/NASA-Simulation/Honey I'm Lost on Mars
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+55238
+Successfully changed project path to: C:/Users/mnmcs/Desktop/GitHub/NASA-Simulation/Honey I'm Lost on Mars
+C:/Users/mnmcs/Desktop/GitHub/NASA-Simulation/Honey I'm Lost on Mars
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 80.10 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.3f1 (4bef613afd59)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/mnmcs/Desktop/GitHub/NASA-Simulation/Honey I'm Lost on Mars/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f99)
+    Vendor:   NVIDIA
+    VRAM:     3962 MB
+    Driver:   27.21.14.6280
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56396
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005078 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 80.66 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.033 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.008651 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.980 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.57 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2679 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 113.7 MB.
+System memory in use after: 113.9 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3150.
+Total: 2.517600 ms (FindLiveObjects: 0.315100 ms CreateObjectMapping: 0.087000 ms MarkObjects: 2.001700 ms  DeleteObjects: 0.112400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Samples/Terrain Tools/0.1.0-preview/Terrain Assets/TerrainTextures/sand_normal.tif
+  artifactKey: Guid(dd1ad706663683546b665fd5b0286bbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Terrain Tools/0.1.0-preview/Terrain Assets/TerrainTextures/sand_normal.tif using Guid(dd1ad706663683546b665fd5b0286bbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a55f2189b47793ac2527bd049fcc1212') in 0.115154 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.021922 seconds.
+  path: Assets/ASSETS_NASA/Rocks and Boulders 2/Rocks/Source/Textures/Rockdetail2_nmp.tif
+  artifactKey: Guid(047414cbd2e318e41a7d1557a27d36c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Rocks and Boulders 2/Rocks/Source/Textures/Rockdetail2_nmp.tif using Guid(047414cbd2e318e41a7d1557a27d36c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf11675e2c7f528812f9450c98598857') in 0.020026 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.034421 seconds.
+  path: Assets/Samples/Terrain Tools/0.1.0-preview/Terrain Assets/TerrainTextures/sand_albedo.tif
+  artifactKey: Guid(6bcc65b7c6e3a0b448d7801bfc56842f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Terrain Tools/0.1.0-preview/Terrain Assets/TerrainTextures/sand_albedo.tif using Guid(6bcc65b7c6e3a0b448d7801bfc56842f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4eab62a1ba8f4421885cc12f84f44b94') in 0.018979 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.011329 seconds.
+  path: Assets/ASSETS_NASA/Materials/Brown.15.mat
+  artifactKey: Guid(27eb693623b74ae409ad01480c04d7d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Materials/Brown.15.mat using Guid(27eb693623b74ae409ad01480c04d7d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '055108ace18433ec2acd76457abc10b7') in 0.063135 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.029360 seconds.
+  path: Assets/ASSETS_NASA/Texture/Albedo_ClayGround_WithStones.tga
+  artifactKey: Guid(8e40ca17368b4bb40bbe1964844b2c2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Texture/Albedo_ClayGround_WithStones.tga using Guid(8e40ca17368b4bb40bbe1964844b2c2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bbb1a4a01ae016ede6b1814ec28dbad') in 0.020963 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.005961 seconds.
+  path: Assets/Course Library/_Source_Files/Materials/Military_Green.mat
+  artifactKey: Guid(7bc72f97a09670a4f9b072e70f88f4cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/_Source_Files/Materials/Military_Green.mat using Guid(7bc72f97a09670a4f9b072e70f88f4cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b2b15b8837598facf7e37d8f7216c3e') in 0.016662 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.028598 seconds.
+  path: Assets/ASSETS_NASA/Rocks and Boulders 2/Rocks/Source/Textures/Rock5_nmp.tif
+  artifactKey: Guid(c208f128e624c474bb2241affee1c866) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Rocks and Boulders 2/Rocks/Source/Textures/Rock5_nmp.tif using Guid(c208f128e624c474bb2241affee1c866) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58684aa82e73bf92240108a93c09b692') in 0.022942 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.020612 seconds.
+  path: Assets/ASSETS_NASA/3PupperStudios/Statue/Textures/Durga_Free_Standing 1/toPainter_lambert1_Normal.png
+  artifactKey: Guid(fdc4cc1f8e5918f47a8fc702cdacaf6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/3PupperStudios/Statue/Textures/Durga_Free_Standing 1/toPainter_lambert1_Normal.png using Guid(fdc4cc1f8e5918f47a8fc702cdacaf6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f11ae480b458ff4c2586ee101616a22') in 0.024848 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.010637 seconds.
+  path: Assets/Samples/Terrain Tools/0.1.0-preview/Terrain Assets/TerrainLayers/rock.terrainlayer
+  artifactKey: Guid(716937fe861ba6748bfd599e6802e70a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Terrain Tools/0.1.0-preview/Terrain Assets/TerrainLayers/rock.terrainlayer using Guid(716937fe861ba6748bfd599e6802e70a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46bd115864e72ce39e1208e4f5b12b01') in 0.026245 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.017988 seconds.
+  path: Assets/ASSETS_NASA/Wall/Mounting_3.fbx
+  artifactKey: Guid(492031f9cbc117d419c5271ccc50b76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Wall/Mounting_3.fbx using Guid(492031f9cbc117d419c5271ccc50b76a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b2a3567c3c2585f7626c52f02f30818') in 0.059633 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.011718 seconds.
+  path: Assets/ASSETS_NASA/Materials/Brown.14.mat
+  artifactKey: Guid(7e5b0a9678b8426468b771b1050eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Materials/Brown.14.mat using Guid(7e5b0a9678b8426468b771b1050eeae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6264143cac61dab50d5f59e8b492e67b') in 0.012907 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.018364 seconds.
+  path: Assets/ASSETS_NASA/Rocks and Boulders 2/Rocks/Source/Textures/Rock5_ms.png
+  artifactKey: Guid(007c7f9a6c3681e4aa289b2e0e210b2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Rocks and Boulders 2/Rocks/Source/Textures/Rock5_ms.png using Guid(007c7f9a6c3681e4aa289b2e0e210b2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3617e03af4240b494256cc7f68e3100') in 0.017238 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.030119 seconds.
+  path: Assets/ASSETS_NASA/Rocks and Boulders 2/Rocks/Source/Textures/Rock6.tif
+  artifactKey: Guid(2c14dee6b3a5fa4448cc7da72765ddde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Rocks and Boulders 2/Rocks/Source/Textures/Rock6.tif using Guid(2c14dee6b3a5fa4448cc7da72765ddde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6546f041b74f02b1589d9e2455966755') in 0.017984 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.024355 seconds.
+  path: Assets/ASSETS_NASA/Rocks and Boulders 2/Rocks/Source/Textures/Rock4_ms.png
+  artifactKey: Guid(a190f507abd111b468acabc651f904ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Rocks and Boulders 2/Rocks/Source/Textures/Rock4_ms.png using Guid(a190f507abd111b468acabc651f904ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2ecdb1ad43fbd65389a8f31416555b1') in 0.046140 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.018947 seconds.
+  path: Assets/ASSETS_NASA/Materials/Gray.4.mat
+  artifactKey: Guid(55ac68c33cb2d144a9976df607b5e754) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Materials/Gray.4.mat using Guid(55ac68c33cb2d144a9976df607b5e754) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b10d0482f80b41e7900264cd8acbd4f4') in 0.020759 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.017637 seconds.
+  path: Assets/ASSETS_NASA/Rocks and Boulders 2/Rocks/Source/Textures/Rock2_h.png
+  artifactKey: Guid(7235df9ad3bd98540b629d630d1f62c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Rocks and Boulders 2/Rocks/Source/Textures/Rock2_h.png using Guid(7235df9ad3bd98540b629d630d1f62c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6145398afb5071f11b329ecc5f33167c') in 0.017644 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.005586 seconds.
+  path: Assets/Scripts/DropRamp.cs
+  artifactKey: Guid(353c0dec10aad0c4faa47cfa57733796) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/DropRamp.cs using Guid(353c0dec10aad0c4faa47cfa57733796) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e9e9ddfde014292a3a82e96ab4a9cf6') in 0.012558 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.016341 seconds.
+  path: Assets/ASSETS_NASA/Rocks and Boulders 2/Rocks/Source/Models/Rock6C.fbx
+  artifactKey: Guid(f086abf98764ee6488fbf0e5af919765) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Rocks and Boulders 2/Rocks/Source/Models/Rock6C.fbx using Guid(f086abf98764ee6488fbf0e5af919765) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78d6d3b2390d528e8e0ca05d792e785f') in 0.018463 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.014261 seconds.
+  path: Assets/ASSETS_NASA/Texture/NewLayer 1.terrainlayer
+  artifactKey: Guid(fd0d6e313f9da472c955a8184bec1039) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Texture/NewLayer 1.terrainlayer using Guid(fd0d6e313f9da472c955a8184bec1039) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7be346affcbf1d20b067cc9feefb2012') in 0.017119 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.018072 seconds.
+  path: Assets/Terrain/TerrainData_c0627e8b-b2a5-4e45-a614-d173e903b08c.asset
+  artifactKey: Guid(69ad0edcd579c468586c164d5ec120c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Terrain/TerrainData_c0627e8b-b2a5-4e45-a614-d173e903b08c.asset using Guid(69ad0edcd579c468586c164d5ec120c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67a0b6cbd7494fa0620b996a2ce824bc') in 0.041016 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.010856 seconds.
+  path: Assets/Scripts/RampScript.cs
+  artifactKey: Guid(37ab2882ece0b8f43b6652ec2aaa8bf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RampScript.cs using Guid(37ab2882ece0b8f43b6652ec2aaa8bf2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a0d2ae7e03ca09edd6ec3a0677b7437') in 0.007435 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.027133 seconds.
+  path: Assets/ASSETS_NASA/Rocks and Boulders 2/Rocks/Source/Textures/Rock5.tif
+  artifactKey: Guid(312c93ed564bd8840ab4818e3db14d8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Rocks and Boulders 2/Rocks/Source/Textures/Rock5.tif using Guid(312c93ed564bd8840ab4818e3db14d8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '144b89bc634760a4f1dbe5ef11e2f1a3') in 0.015065 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.005993 seconds.
+  path: Assets/Scripts/PlayerControl.cs
+  artifactKey: Guid(db45ed9ded5b246738a05d99354bd69d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerControl.cs using Guid(db45ed9ded5b246738a05d99354bd69d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f61975acaa6cbccb1c32d78988bcb42') in 0.007479 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.018991 seconds.
+  path: Assets/ASSETS_NASA/Rocks and Boulders 2/Rocks/Prefabs/Rock6C.prefab
+  artifactKey: Guid(d9c3d22cdfbbcfd4f8d8019ff97a0f2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Rocks and Boulders 2/Rocks/Prefabs/Rock6C.prefab using Guid(d9c3d22cdfbbcfd4f8d8019ff97a0f2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dced056911ce8dcc5f36986e05cdd261') in 0.041214 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.015819 seconds.
+  path: Assets/ASSETS_NASA/Rocks and Boulders 2/Rocks/Prefabs/Rock2.prefab
+  artifactKey: Guid(940d55d4117386f4f9398ea3ff52d4cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Rocks and Boulders 2/Rocks/Prefabs/Rock2.prefab using Guid(940d55d4117386f4f9398ea3ff52d4cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f08562da45f72ffcda443d607f7357a3') in 0.033020 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.009237 seconds.
+  path: Assets/ASSETS_NASA/Rocks and Boulders 2/Rocks/Source/Materials/Unity 5/Rock2.mat
+  artifactKey: Guid(520e490b117f8cc4bbfd41ec92292838) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Rocks and Boulders 2/Rocks/Source/Materials/Unity 5/Rock2.mat using Guid(520e490b117f8cc4bbfd41ec92292838) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32b50736128369543ed1db8538d531cb') in 0.030909 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.014577 seconds.
+  path: Assets/ASSETS_NASA/Rocks and Boulders 2/Rocks/Source/Textures/Rock5_h.png
+  artifactKey: Guid(0f4ca202c9a9aea47b30a1fa32effc1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Rocks and Boulders 2/Rocks/Source/Textures/Rock5_h.png using Guid(0f4ca202c9a9aea47b30a1fa32effc1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc27bf62d453bfbeb8147e3822dbf49f') in 0.020002 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.013898 seconds.
+  path: Assets/Course Library/_Source_Files/Textures/Tex_Military_Green.png
+  artifactKey: Guid(91d8e129fe518b34281eef0689092f0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/_Source_Files/Textures/Tex_Military_Green.png using Guid(91d8e129fe518b34281eef0689092f0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ace768a6986d407bc59f0b362d51b19') in 0.016535 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.025962 seconds.
+  path: Assets/Samples/Terrain Tools/0.1.0-preview/Terrain Assets/TerrainTextures/rock_mask.tif
+  artifactKey: Guid(44f7e6aa71506b041ac0a60db8868a44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Terrain Tools/0.1.0-preview/Terrain Assets/TerrainTextures/rock_mask.tif using Guid(44f7e6aa71506b041ac0a60db8868a44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6739467e9eaa8c8db92bb188408490ab') in 0.013646 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.010611 seconds.
+  path: Assets/Scripts/OpenDoor.cs
+  artifactKey: Guid(da5b01ab62f40b94ba9c6c8356d9b729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/OpenDoor.cs using Guid(da5b01ab62f40b94ba9c6c8356d9b729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7072c4f8dc0568093e0be1259c5cf761') in 0.007229 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.018137 seconds.
+  path: Assets/ASSETS_NASA/Rocks and Boulders 2/Rocks/Source/Textures/Rock2_ao.png
+  artifactKey: Guid(e33cfde976023144c9866837549818a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Rocks and Boulders 2/Rocks/Source/Textures/Rock2_ao.png using Guid(e33cfde976023144c9866837549818a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '989763008b88370c181e3ec926c62c4d') in 0.014669 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.023135 seconds.
+  path: Assets/FREE Skyboxes - Sci-Fi & Fantasy/SBS Sci-Fi & Fantasy 3/Large/Textures/Front_SBS Sci-Fi & Fantasy 3 Large.png
+  artifactKey: Guid(3c071bc28fc28fc459b4bf5b310cecff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FREE Skyboxes - Sci-Fi & Fantasy/SBS Sci-Fi & Fantasy 3/Large/Textures/Front_SBS Sci-Fi & Fantasy 3 Large.png using Guid(3c071bc28fc28fc459b4bf5b310cecff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c063bd7bd61a2575968a1cf9f4b8a2d7') in 0.257644 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.022287 seconds.
+  path: Assets/FREE Skyboxes - Sci-Fi & Fantasy/SBS Sci-Fi & Fantasy 3/Large/Textures/Down_SBS Sci-Fi & Fantasy 3 Large.png
+  artifactKey: Guid(2eb9c298c3d4f7448aeb288898cbe2a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FREE Skyboxes - Sci-Fi & Fantasy/SBS Sci-Fi & Fantasy 3/Large/Textures/Down_SBS Sci-Fi & Fantasy 3 Large.png using Guid(2eb9c298c3d4f7448aeb288898cbe2a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '916383ffa84a6652951c3b9c31d7c7ae') in 0.164505 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.014476 seconds.
+  path: Assets/ASSETS_NASA/Rocks and Boulders 2/Rocks/Prefabs/Rock5A.prefab
+  artifactKey: Guid(27bfdb9a40efac94b969eaf77cea92d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Rocks and Boulders 2/Rocks/Prefabs/Rock5A.prefab using Guid(27bfdb9a40efac94b969eaf77cea92d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0dfa29414a7da89e6e0db0a510cf32f') in 0.034470 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.017059 seconds.
+  path: Assets/Course Library/_Source_Files/FBX/SK_Veh_Armor_Car_01.fbx
+  artifactKey: Guid(93b9de2c4710d6b4e9ac38987a064d42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/_Source_Files/FBX/SK_Veh_Armor_Car_01.fbx using Guid(93b9de2c4710d6b4e9ac38987a064d42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1083070ecc4230f29e6fcf54111056e5') in 0.058513 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.023161 seconds.
+  path: Assets/ASSETS_NASA/Rocks and Boulders 2/Rocks/Source/Textures/Rock6_h.png
+  artifactKey: Guid(ea5fa60747dcedc4cb9f54ae82142568) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Rocks and Boulders 2/Rocks/Source/Textures/Rock6_h.png using Guid(ea5fa60747dcedc4cb9f54ae82142568) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ac42eb77240ae3b6567fedc92359387') in 0.014949 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.020354 seconds.
+  path: Assets/ASSETS_NASA/3PupperStudios/Statue/Models/Statues/Durga_Free_Standing.fbx
+  artifactKey: Guid(720dfd4d0fa905f409b97df91b2e6908) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/3PupperStudios/Statue/Models/Statues/Durga_Free_Standing.fbx using Guid(720dfd4d0fa905f409b97df91b2e6908) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8eceafd80089a8adc6ee41ceaa175e49') in 0.023892 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.039224 seconds.
+  path: Assets/ASSETS_NASA/Rocks and Boulders 2/Rocks/Source/Textures/Rock6_nmp.tif
+  artifactKey: Guid(4e1f3e7249bd7764aa7993a48695ab65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Rocks and Boulders 2/Rocks/Source/Textures/Rock6_nmp.tif using Guid(4e1f3e7249bd7764aa7993a48695ab65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b84285b632d06b209d638271969aab48') in 0.020796 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.038917 seconds.
+  path: Assets/ASSETS_NASA/Rocks and Boulders 2/Rocks/Source/Textures/Rock2.tif
+  artifactKey: Guid(162c810bf5419394188c1c46a5db065e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Rocks and Boulders 2/Rocks/Source/Textures/Rock2.tif using Guid(162c810bf5419394188c1c46a5db065e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23761d24a4c18f50383844462ea499c6') in 0.015253 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.017571 seconds.
+  path: Assets/ASSETS_NASA/Boulders/Rock_6.fbx
+  artifactKey: Guid(71bb44319f15e0741846c4fad009f013) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Boulders/Rock_6.fbx using Guid(71bb44319f15e0741846c4fad009f013) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f360dd71a69522ac109613099f74a188') in 0.019075 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.023931 seconds.
+  path: Assets/Terrain/TerrainData_2451d6d1-6aa5-4faa-8d2a-e6757a7d8a9a.asset
+  artifactKey: Guid(5ed6c0e9f98114fbdaef831fbd690a94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Terrain/TerrainData_2451d6d1-6aa5-4faa-8d2a-e6757a7d8a9a.asset using Guid(5ed6c0e9f98114fbdaef831fbd690a94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6dafc54b62ba4f81c301f43cbeb8689a') in 0.025700 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.018556 seconds.
+  path: Assets/ASSETS_NASA/Rocks and Boulders 2/Rocks/Source/Textures/Rock6_ao.png
+  artifactKey: Guid(caa896f01dbad8a45afa58ec317b8538) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Rocks and Boulders 2/Rocks/Source/Textures/Rock6_ao.png using Guid(caa896f01dbad8a45afa58ec317b8538) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0a9b0c52b7724d9283bf002431d5b59') in 0.019286 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.011317 seconds.
+  path: Assets/ASSETS_NASA/Texture/NewLayer 2.terrainlayer
+  artifactKey: Guid(e56cf0687d8ec4c3e9d71d867bf91009) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Texture/NewLayer 2.terrainlayer using Guid(e56cf0687d8ec4c3e9d71d867bf91009) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a7f30e359faceb533f1ac5efa3306de') in 0.016508 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.017052 seconds.
+  path: Assets/FREE Skyboxes - Sci-Fi & Fantasy/SBS Sci-Fi & Fantasy 3/Large/Textures/Up_SBS Sci-Fi & Fantasy 3 Large.png
+  artifactKey: Guid(d9d6dec6cf8efda4b9c14138c3ae776a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FREE Skyboxes - Sci-Fi & Fantasy/SBS Sci-Fi & Fantasy 3/Large/Textures/Up_SBS Sci-Fi & Fantasy 3 Large.png using Guid(d9d6dec6cf8efda4b9c14138c3ae776a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a93dd6a27e6ebfe8a8a3c3969d878153') in 0.159877 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.054729 seconds.
+  path: Assets/Samples/Terrain Tools/0.1.0-preview/Terrain Assets/TerrainTextures/rock_normal.tif
+  artifactKey: Guid(f45c3bd09301cc64783afc31dfca026b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Terrain Tools/0.1.0-preview/Terrain Assets/TerrainTextures/rock_normal.tif using Guid(f45c3bd09301cc64783afc31dfca026b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd04e2964a7b26b397cb19b1f1b53d433') in 0.016123 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.011083 seconds.
+  path: Assets/ASSETS_NASA/Rocks and Boulders 2/Rocks/Source/Materials/Unity 5/Rock6.mat
+  artifactKey: Guid(a757083ce9ed07240a5511e1c9d6e846) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Rocks and Boulders 2/Rocks/Source/Materials/Unity 5/Rock6.mat using Guid(a757083ce9ed07240a5511e1c9d6e846) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b34d06fa8356c52eb9928479c533275') in 0.031854 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.011622 seconds.
+  path: Assets/ASSETS_NASA/Rocks and Boulders 2/Shaders/RotateGameObject.cs
+  artifactKey: Guid(8922ed451d14d75478d2565754f0c719) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Rocks and Boulders 2/Shaders/RotateGameObject.cs using Guid(8922ed451d14d75478d2565754f0c719) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c9e03594ed9fad073fcc38ed6a77273') in 0.008086 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.024338 seconds.
+  path: Assets/Samples/Terrain Tools/0.1.0-preview/Terrain Assets/TerrainTextures/sand_mask.tif
+  artifactKey: Guid(58a4a6310bd23844bae88d82f7916059) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Terrain Tools/0.1.0-preview/Terrain Assets/TerrainTextures/sand_mask.tif using Guid(58a4a6310bd23844bae88d82f7916059) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dedaabaf8dd8e62f6ba533a393f9eb84') in 0.017867 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.011586 seconds.
+  path: Assets/ASSETS_NASA/Rocks and Boulders 2/Rocks/Source/Materials/Unity 5/Rock5.mat
+  artifactKey: Guid(b5df0d0c5fdf17849add10dec913d0ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Rocks and Boulders 2/Rocks/Source/Materials/Unity 5/Rock5.mat using Guid(b5df0d0c5fdf17849add10dec913d0ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7076463b0e35d31aea03d9f666c54913') in 0.030733 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.017930 seconds.
+  path: Assets/Terrain/TerrainData_90a35834-988e-4fbe-a69a-953abc1d5b20.asset
+  artifactKey: Guid(b11b36f8073de4a98b00171676314af8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Terrain/TerrainData_90a35834-988e-4fbe-a69a-953abc1d5b20.asset using Guid(b11b36f8073de4a98b00171676314af8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aaec62ef951110b604bde77e92114834') in 0.025625 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.008941 seconds.
+  path: Assets/ASSETS_NASA/Texture/Materials/Albedo_ClayGround.mat
+  artifactKey: Guid(4f2255f2a7a81ed4f80974f34a83b382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Texture/Materials/Albedo_ClayGround.mat using Guid(4f2255f2a7a81ed4f80974f34a83b382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9925590fdd82df219efb100edd63f81e') in 0.015947 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.035219 seconds.
+  path: Assets/ASSETS_NASA/Texture/Albedo_ClayGround.tga
+  artifactKey: Guid(81c223dc0d499ce4fb0302dff08a6613) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Texture/Albedo_ClayGround.tga using Guid(81c223dc0d499ce4fb0302dff08a6613) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3af15ca3848d18ece2f82102df7ad570') in 0.013873 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.027008 seconds.
+  path: Assets/FREE Skyboxes - Sci-Fi & Fantasy/SBS Sci-Fi & Fantasy 3/Large/Textures/Left_SBS Sci-Fi & Fantasy 3 Large.png
+  artifactKey: Guid(675048b057e03bf4cae11f9cc6e284e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FREE Skyboxes - Sci-Fi & Fantasy/SBS Sci-Fi & Fantasy 3/Large/Textures/Left_SBS Sci-Fi & Fantasy 3 Large.png using Guid(675048b057e03bf4cae11f9cc6e284e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '485601bfe6e81f985a0c3ba84999b7b5') in 0.173084 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.014723 seconds.
+  path: Assets/Terrain/TerrainData_2b645873-f3ae-442f-9adf-db2156c7bbd0.asset
+  artifactKey: Guid(0bf50662d281b4effb4b794cedbb8fd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Terrain/TerrainData_2b645873-f3ae-442f-9adf-db2156c7bbd0.asset using Guid(0bf50662d281b4effb4b794cedbb8fd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2ce53b1f3e965afa3a4ea2ac89cbc9a') in 0.020080 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.006388 seconds.
+  path: Assets/Scenes/GameScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/GameScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd969340c3857a5eb94e183f3afa8a9d') in 0.009210 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.011289 seconds.
+  path: Assets/Scripts/CameraController.cs
+  artifactKey: Guid(4a9920e9f51f47b4fa364dd303757654) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/CameraController.cs using Guid(4a9920e9f51f47b4fa364dd303757654) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b63f939795d4a1f459812da1c8b97b0') in 0.008107 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.010052 seconds.
+  path: Assets/Scripts/ladderScript1.cs
+  artifactKey: Guid(f0886b02074526d4189fd45513edab0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ladderScript1.cs using Guid(f0886b02074526d4189fd45513edab0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b48a318b7e274f80467f2587eb25b91a') in 0.007424 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.015382 seconds.
+  path: Assets/Terrain/TerrainData_c7824bf7-1633-4adf-b724-6b42e0717a9d.asset
+  artifactKey: Guid(ebc32b3183159419d87de2c113258775) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Terrain/TerrainData_c7824bf7-1633-4adf-b724-6b42e0717a9d.asset using Guid(ebc32b3183159419d87de2c113258775) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd65bc0b985568925251f6088b3ef1976') in 0.022007 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.014470 seconds.
+  path: Assets/ASSETS_NASA/3PupperStudios/Statue/Prefabs/Durga_Free_Standing.prefab
+  artifactKey: Guid(8d55ec0e96e52ba459950896cbe6f1e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/3PupperStudios/Statue/Prefabs/Durga_Free_Standing.prefab using Guid(8d55ec0e96e52ba459950896cbe6f1e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23c9fce6090bd1a6d746c2f4c648428e') in 0.033722 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.020199 seconds.
+  path: Assets/ASSETS_NASA/Rocks and Boulders 2/Rocks/Source/Textures/Rock2_ms.png
+  artifactKey: Guid(e0a129ea7aef5bf49a02cdc7e2c0c943) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Rocks and Boulders 2/Rocks/Source/Textures/Rock2_ms.png using Guid(e0a129ea7aef5bf49a02cdc7e2c0c943) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf75f961e7e87f1aea2f83f619c8ffe5') in 0.016352 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.013697 seconds.
+  path: Assets/ASSETS_NASA/Texture/Materials/Albedo_ClayGround_WithStones.mat
+  artifactKey: Guid(017a288092833fa469a64b034bef4e11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Texture/Materials/Albedo_ClayGround_WithStones.mat using Guid(017a288092833fa469a64b034bef4e11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a9f7b215708ca7d66ba886962c8fcb3') in 0.013818 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.014544 seconds.
+  path: Assets/Terrain/TerrainData_2c6eca8a-5d91-4913-9d42-a0caa54bf8c9.asset
+  artifactKey: Guid(0e4eb44bcce084ecb9973559e2c5a841) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Terrain/TerrainData_2c6eca8a-5d91-4913-9d42-a0caa54bf8c9.asset using Guid(0e4eb44bcce084ecb9973559e2c5a841) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c87b59dd7f6bf76b13e62cba741ed527') in 0.018685 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.012633 seconds.
+  path: Assets/Terrain/TerrainData_192231cd-6206-4825-9b03-6a3a0d4f6770.asset
+  artifactKey: Guid(59950dbf5e85143febd0af1929411b55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Terrain/TerrainData_192231cd-6206-4825-9b03-6a3a0d4f6770.asset using Guid(59950dbf5e85143febd0af1929411b55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c88e1944201098916209252d7556105') in 0.018839 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.026394 seconds.
+  path: Assets/ASSETS_NASA/Rocks and Boulders 2/Rocks/Source/Textures/Rock6_ms.png
+  artifactKey: Guid(e677615ec9e660f4691a28a7e6abbfa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Rocks and Boulders 2/Rocks/Source/Textures/Rock6_ms.png using Guid(e677615ec9e660f4691a28a7e6abbfa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3732f6c53a8f3eb84e25134f0665b88b') in 0.021331 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.040570 seconds.
+  path: Assets/FREE Skyboxes - Sci-Fi & Fantasy/SBS Sci-Fi & Fantasy 3/Large/Textures/Right_SBS Sci-Fi & Fantasy 3 Large.png
+  artifactKey: Guid(293f0556c88cfc14494307409056dd75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FREE Skyboxes - Sci-Fi & Fantasy/SBS Sci-Fi & Fantasy 3/Large/Textures/Right_SBS Sci-Fi & Fantasy 3 Large.png using Guid(293f0556c88cfc14494307409056dd75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c662aea2d517d66a010330c03e002909') in 0.178993 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.011191 seconds.
+  path: Assets/FREE Skyboxes - Sci-Fi & Fantasy/SBS Sci-Fi & Fantasy 3/Large/Skybox_SBS Sci-Fi & Fantasy 3 Large.mat
+  artifactKey: Guid(474ef41583c324545b8600d22a27c923) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FREE Skyboxes - Sci-Fi & Fantasy/SBS Sci-Fi & Fantasy 3/Large/Skybox_SBS Sci-Fi & Fantasy 3 Large.mat using Guid(474ef41583c324545b8600d22a27c923) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e4537045b030bfbd5a5bb33ad52987d') in 1.521329 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.023187 seconds.
+  path: Assets/ASSETS_NASA/Rocks and Boulders 2/Rocks/Source/Textures/Rockdetail2.tif
+  artifactKey: Guid(016e95565131cbe4bbe66d399a1c4efa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Rocks and Boulders 2/Rocks/Source/Textures/Rockdetail2.tif using Guid(016e95565131cbe4bbe66d399a1c4efa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f83f2ead0d5fa13c9ac783f17e11338') in 0.021052 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.007465 seconds.
+  path: Assets/Course Library/Vehicles/Veh_Armor_Car_01.prefab
+  artifactKey: Guid(aea2a6cdcc9d7944090d528486ebaee1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/Vehicles/Veh_Armor_Car_01.prefab using Guid(aea2a6cdcc9d7944090d528486ebaee1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecae1e6edc5278def8ed59d84ca97955') in 0.026571 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.013745 seconds.
+  path: Assets/Scripts/PickKey.cs
+  artifactKey: Guid(ce29804a754db864f9c8d4906699454b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PickKey.cs using Guid(ce29804a754db864f9c8d4906699454b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b21b45486b6b7366ca8a7649050ab521') in 0.008854 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.010763 seconds.
+  path: Assets/Scripts/FollowPlayer.cs
+  artifactKey: Guid(176315f5e31801847901946920ae5bdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/FollowPlayer.cs using Guid(176315f5e31801847901946920ae5bdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01b79e8c1e650ca60756a73ee17f37a5') in 0.008516 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.030816 seconds.
+  path: Assets/ASSETS_NASA/Rocks and Boulders 2/Rocks/Source/Textures/Rock2_nmp.tif
+  artifactKey: Guid(3a821c28b70b2b447ab3e66e3a2229e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Rocks and Boulders 2/Rocks/Source/Textures/Rock2_nmp.tif using Guid(3a821c28b70b2b447ab3e66e3a2229e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80e1b10f09cdb784b92eaf2e4e0c8072') in 0.027557 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.011887 seconds.
+  path: Assets/Scripts/RampTrigger.cs
+  artifactKey: Guid(5aedd41911899074098be059e98b1380) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/RampTrigger.cs using Guid(5aedd41911899074098be059e98b1380) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0229c3a9f362263ac5b81da89e9c4e6e') in 0.007629 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.014752 seconds.
+  path: Assets/ASSETS_NASA/Rocks and Boulders 2/Rocks/Source/Textures/Rock5_ao.png
+  artifactKey: Guid(f6526ae33cace7c46ab54463669ab556) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Rocks and Boulders 2/Rocks/Source/Textures/Rock5_ao.png using Guid(f6526ae33cace7c46ab54463669ab556) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65606eaead2faac7facf6f7ad432d26f') in 0.018894 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.015079 seconds.
+  path: Assets/Terrain/New Terrain - Copy.asset
+  artifactKey: Guid(e5c35ffd07e6541feb609f3da895304c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Terrain/New Terrain - Copy.asset using Guid(e5c35ffd07e6541feb609f3da895304c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70600fdecce8bf7d234c3db899285f56') in 0.023274 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.027705 seconds.
+  path: Assets/FREE Skyboxes - Sci-Fi & Fantasy/SBS Sci-Fi & Fantasy 3/Large/Textures/Back_SBS Sci-Fi & Fantasy 3 Large.png
+  artifactKey: Guid(c71917fac526f2c45b89a1ab8d65c507) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FREE Skyboxes - Sci-Fi & Fantasy/SBS Sci-Fi & Fantasy 3/Large/Textures/Back_SBS Sci-Fi & Fantasy 3 Large.png using Guid(c71917fac526f2c45b89a1ab8d65c507) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dba74dc71759e9fe0fbe1b8962932990') in 0.248042 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.013282 seconds.
+  path: Assets/Scripts/New_Rock_Hinge.anim
+  artifactKey: Guid(cf560840c882e284dbf37b39086dfece) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/New_Rock_Hinge.anim using Guid(cf560840c882e284dbf37b39086dfece) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df2eb5e9f586c64de1725eb1a44482ef') in 0.021030 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.285897 seconds.
+  path: Assets/Samples/Terrain Tools/0.1.0-preview/Terrain Assets/TerrainTextures/rock_albedo.tif
+  artifactKey: Guid(f7dd726c93b8f17418ea3be3f6768909) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Terrain Tools/0.1.0-preview/Terrain Assets/TerrainTextures/rock_albedo.tif using Guid(f7dd726c93b8f17418ea3be3f6768909) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab4a197bb176060ecb06e34cd9b76dd8') in 0.015013 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.005417 seconds.
+  path: Assets/Scripts/SpawnRamp.cs
+  artifactKey: Guid(3adc1396b09d7bc4a84608eb1ac7d159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/SpawnRamp.cs using Guid(3adc1396b09d7bc4a84608eb1ac7d159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa356584b0bebb7ed776b3bc60fcadcc') in 0.006483 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.015344 seconds.
+  path: Assets/ASSETS_NASA/Rocks and Boulders 2/Rocks/Source/Models/Rock5A.fbx
+  artifactKey: Guid(1e3f5eee0b7e2a54195a2a32bf7fcf20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Rocks and Boulders 2/Rocks/Source/Models/Rock5A.fbx using Guid(1e3f5eee0b7e2a54195a2a32bf7fcf20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6d32c5f6c8cf84e851f5865156df064') in 0.023484 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.009820 seconds.
+  path: Assets/ASSETS_NASA/Materials/Durga_Free_Standing.mat
+  artifactKey: Guid(1391282366bd14348a04de068223f661) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Materials/Durga_Free_Standing.mat using Guid(1391282366bd14348a04de068223f661) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adce2ce5de19f119e4f3fb7e6bd57709') in 0.035874 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.017779 seconds.
+  path: Assets/ASSETS_NASA/Rocks and Boulders 2/Rocks/Source/Models/Rock2.fbx
+  artifactKey: Guid(d11d8096e6b14aa43aa74d862d2d01f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Rocks and Boulders 2/Rocks/Source/Models/Rock2.fbx using Guid(d11d8096e6b14aa43aa74d862d2d01f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8f74a2e61540532fe3a40daf4abaa96') in 0.016308 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.010747 seconds.
+  path: Assets/Samples/Terrain Tools/0.1.0-preview/Terrain Assets/TerrainLayers/sand.terrainlayer
+  artifactKey: Guid(aa7afa2eb72909e4d8083508573d955f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples/Terrain Tools/0.1.0-preview/Terrain Assets/TerrainLayers/sand.terrainlayer using Guid(aa7afa2eb72909e4d8083508573d955f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25e44600676ccbd915c3ae232aa83308') in 0.020200 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.017616 seconds.
+  path: Assets/ASSETS_NASA/3PupperStudios/Statue/Textures/Durga_Free_Standing 1/toPainter_lambert1_AlbedoTransparency.png
+  artifactKey: Guid(e34f6d946c3b98641893bec215197dca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/3PupperStudios/Statue/Textures/Durga_Free_Standing 1/toPainter_lambert1_AlbedoTransparency.png using Guid(e34f6d946c3b98641893bec215197dca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8fd9f30c50af71f75c5b09e4cd02099') in 0.015255 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.009782 seconds.
+  path: Assets/ASSETS_NASA/Texture/NewLayer.terrainlayer
+  artifactKey: Guid(20404722b1fc849da899baec6d974bd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/Texture/NewLayer.terrainlayer using Guid(20404722b1fc849da899baec6d974bd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a03f62ae48f74b6bb4c60d90d24cfc8c') in 0.018540 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.013804 seconds.
+  path: Assets/ASSETS_NASA/3PupperStudios/Statue/Textures/Durga_Free_Standing 1/toPainter_lambert1_MetallicSmoothness.png
+  artifactKey: Guid(bd5e2c59777603e47a4472fe41a2439f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ASSETS_NASA/3PupperStudios/Statue/Textures/Durga_Free_Standing 1/toPainter_lambert1_MetallicSmoothness.png using Guid(bd5e2c59777603e47a4472fe41a2439f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5ef0a3f09196f7a67928cdc181e9b5c') in 0.015862 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009097 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.01 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.839 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.61 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2715 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 0.62 GB.
+System memory in use after: 0.62 GB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3981.
+Total: 3.483100 ms (FindLiveObjects: 0.753900 ms CreateObjectMapping: 0.099700 ms MarkObjects: 2.579500 ms  DeleteObjects: 0.044000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004052 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.83 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.044 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2671 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 0.62 GB.
+System memory in use after: 0.62 GB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3984.
+Total: 2.490700 ms (FindLiveObjects: 0.356100 ms CreateObjectMapping: 0.076500 ms MarkObjects: 2.038900 ms  DeleteObjects: 0.018100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2200.453518 seconds.
+  path: Assets/Scripts/PickKey.cs
+  artifactKey: Guid(ce29804a754db864f9c8d4906699454b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PickKey.cs using Guid(ce29804a754db864f9c8d4906699454b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e48f7d2a10881aa2d8ee5237450b8f8') in 0.010319 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
