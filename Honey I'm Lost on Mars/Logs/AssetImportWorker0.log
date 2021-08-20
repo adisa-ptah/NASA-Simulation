@@ -15,11 +15,11 @@ C:/Users/mnmcs/Desktop/GitHub/NASA-Simulation/Honey I'm Lost on Mars
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-64559
+58518
 Successfully changed project path to: C:/Users/mnmcs/Desktop/GitHub/NASA-Simulation/Honey I'm Lost on Mars
 C:/Users/mnmcs/Desktop/GitHub/NASA-Simulation/Honey I'm Lost on Mars
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 76.00 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 83.29 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.1.3f1 (4bef613afd59)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/Resources/UnitySubsystems
@@ -35,97 +35,40 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56960
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56888
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002617 seconds.
+Registered in 0.002363 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 80.29 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 82.40 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.742 seconds
+- Completed reload, in  2.861 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.004111 seconds.
+Registered in 0.008081 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.60 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.914 seconds
+- Completed reload, in  0.949 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
-Refreshing native plugins compatible for Editor in 0.56 ms, found 1 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.63 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2679 Unused Serialized files (Serialized files now loaded: 0)
 System memory in use before: 113.8 MB.
 System memory in use after: 114.0 MB.
 
 Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3150.
-Total: 2.939100 ms (FindLiveObjects: 0.843900 ms CreateObjectMapping: 0.145100 ms MarkObjects: 1.830700 ms  DeleteObjects: 0.114000 ms)
+Total: 2.271700 ms (FindLiveObjects: 0.370100 ms CreateObjectMapping: 0.077100 ms MarkObjects: 1.714700 ms  DeleteObjects: 0.107700 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/Scripts/Hinge.controller
-  artifactKey: Guid(e971d81bfb0e8194fbec53c55a9a3852) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Hinge.controller using Guid(e971d81bfb0e8194fbec53c55a9a3852) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '092fb404cec7abdf85a04c74535b9e16') in 0.040642 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000334 seconds.
-  path: Assets/Scripts/desktop.ini
-  artifactKey: Guid(a54ca168c01ca6c4cbcae78d192786e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/desktop.ini using Guid(a54ca168c01ca6c4cbcae78d192786e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbfa6bf35c2375090ba527b01dce10b0') in 0.010768 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000349 seconds.
-  path: Assets/Scripts/Boulder.controller
-  artifactKey: Guid(68e3d6dfbebfc1d4796a962729ed0ddf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Boulder.controller using Guid(68e3d6dfbebfc1d4796a962729ed0ddf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82085a89e01ff4a22a9b1ac4a855ea2c') in 0.009689 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.674623 seconds.
-  path: Assets/Scripts/Move_Boulder.anim
-  artifactKey: Guid(8ab44ed1e0d220349811c5ea3310d835) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Move_Boulder.anim using Guid(8ab44ed1e0d220349811c5ea3310d835) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eccc289fd5b23948e9e6c5e322c0d254') in 0.019470 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.688840 seconds.
-  path: Assets/Scripts/Rock_Hinge.anim
-  artifactKey: Guid(5dc54de7b1290b348837ec165a57da28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Rock_Hinge.anim using Guid(5dc54de7b1290b348837ec165a57da28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2168bd5ccab7e4479eda79ff515bef57') in 0.009698 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 1.009469 seconds.
-  path: Assets/Scripts/Rock_Flip.anim
-  artifactKey: Guid(e569ecfaf30568d4cac4cd9f85b57bff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Rock_Flip.anim using Guid(e569ecfaf30568d4cac4cd9f85b57bff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8df889dfa2b9f75f810c4a534b6219c3') in 0.011329 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.005216 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.64 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.925 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2671 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 113.5 MB.
-System memory in use after: 113.7 MB.
-
-Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3153.
-Total: 2.323500 ms (FindLiveObjects: 0.457000 ms CreateObjectMapping: 0.195600 ms MarkObjects: 1.649600 ms  DeleteObjects: 0.018900 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 248.626497 seconds.
-  path: Assets/Scripts/OpenDoor.cs
-  artifactKey: Guid(da5b01ab62f40b94ba9c6c8356d9b729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/OpenDoor.cs using Guid(da5b01ab62f40b94ba9c6c8356d9b729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11756be0d35ee4cf0ef780bf6a81b990') in 0.013766 seconds 
-AssetImportWorkerClient::OnTransportError - code=2 error=End of file
+  path: Assets/Course Library/_Source_Files
+  artifactKey: Guid(72f1805f9e4054127a65d3cab3ea01c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Course Library/_Source_Files using Guid(72f1805f9e4054127a65d3cab3ea01c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d28959f13d20387e5f870226837a077') in 0.011201 seconds 
