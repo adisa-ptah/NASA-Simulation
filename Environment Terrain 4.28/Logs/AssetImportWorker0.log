@@ -1,125 +1,71 @@
 Using pre-set license
-Built from '2021.1/staging' branch; Version is '2021.1.3f1 (4bef613afd59) revision 4976481'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10 Home; OS build 19042.1165; Version 2009; 64bit' Language: 'en' Physical Memory: 24477 MB
-BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
-C:\Program Files\Unity\Hub\Editor\2021.1.3f1\Editor\Unity.exe
+/Applications/Unity/Hub/Editor/2021.1.3f1/Unity.app/Contents/MacOS/Unity
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/User/Desktop/Unity Stuff/NASA-Simulation/Environment Terrain 4.28
+/Users/ariannazurelle/Documents/GitHub/NASA-Simulation/Environment Terrain 4.28
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-52033
-Successfully changed project path to: C:/Users/User/Desktop/Unity Stuff/NASA-Simulation/Environment Terrain 4.28
-C:/Users/User/Desktop/Unity Stuff/NASA-Simulation/Environment Terrain 4.28
+53081
+Successfully changed project path to: /Users/ariannazurelle/Documents/GitHub/NASA-Simulation/Environment Terrain 4.28
+/Users/ariannazurelle/Documents/GitHub/NASA-Simulation/Environment Terrain 4.28
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 89.98 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 96.23 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.1.3f1 (4bef613afd59)
-[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/User/Desktop/Unity Stuff/NASA-Simulation/Environment Terrain 4.28/Assets
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2021.1.3f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/ariannazurelle/Documents/GitHub/NASA-Simulation/Environment Terrain 4.28/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
-Direct3D:
-    Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA TITAN X (Pascal) (ID=0x1b00)
-    Vendor:   NVIDIA
-    VRAM:     12147 MB
-    Driver:   27.21.14.6589
+2021-08-20 13:45:45.450 Unity[45553:2804585] (null) preferred device: Apple M1 (high power)
+2021-08-20 13:45:45.450 Unity[45553:2804585] Metal devices available: 1
+2021-08-20 13:45:45.450 Unity[45553:2804585] 0: Apple M1 (high power)
+2021-08-20 13:45:45.450 Unity[45553:2804585] Using device Apple M1 (high power)
+Initializing Metal device caps: Apple M1
 Initialize mono
-Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/Managed'
-Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
-Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56620
+Mono path[0] = '/Applications/Unity/Hub/Editor/2021.1.3f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2021.1.3f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2021.1.3f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56553
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002467 seconds.
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 94.08 ms, found 1 plugins.
+Register platform support module: /Applications/Unity/Hub/Editor/2021.1.3f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.001074 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 86.60 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.516 seconds
+- Completed reload, in  3.072 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.003898 seconds.
+Registered in 0.003412 seconds.
 Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.67 ms, found 1 plugins.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.99 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.102 seconds
+- Completed reload, in  2.541 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 0.69 ms, found 1 plugins.
+Launching external process: /Applications/Unity/Hub/Editor/2021.1.3f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.91 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2682 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 112.0 MB.
-System memory in use after: 112.2 MB.
+System memory in use before: 181.7 MB.
+System memory in use after: 181.8 MB.
 
 Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3150.
-Total: 2.270600 ms (FindLiveObjects: 0.222100 ms CreateObjectMapping: 0.140600 ms MarkObjects: 1.804300 ms  DeleteObjects: 0.102700 ms)
+Total: 5.583042 ms (FindLiveObjects: 0.299375 ms CreateObjectMapping: 0.074666 ms MarkObjects: 5.113917 ms  DeleteObjects: 0.094000 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/New Terrain 2.asset
-  artifactKey: Guid(2beed32d4de9d944d952f798748282ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/New Terrain 2.asset using Guid(2beed32d4de9d944d952f798748282ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f76b97498da45f5f53bf6bc754705c49') in 0.036867 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000183 seconds.
-  path: Assets/TerrainData_e4b783f9-3e4a-4a4c-b65a-999e82fb1394.asset
-  artifactKey: Guid(8f62fcc798f1140719b3e97d12850fdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TerrainData_e4b783f9-3e4a-4a4c-b65a-999e82fb1394.asset using Guid(8f62fcc798f1140719b3e97d12850fdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c975023f7c502b847196b65f8198116c') in 0.058761 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000199 seconds.
-  path: Assets/New Terrain 1.asset
-  artifactKey: Guid(c3efe4ec5f55ac34b820c2cc3f03f1d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/New Terrain 1.asset using Guid(c3efe4ec5f55ac34b820c2cc3f03f1d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22e05f0a0aa0a7bb3c34a208b42e6e3f') in 0.011718 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000196 seconds.
-  path: Assets/New Terrain.asset
-  artifactKey: Guid(e5c35ffd07e6541feb609f3da895304c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/New Terrain.asset using Guid(e5c35ffd07e6541feb609f3da895304c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74f1ce10bd65880c35ff9cd7f9b93054') in 0.017913 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000189 seconds.
-  path: Assets/TerrainData_ebe127fe-5f01-400c-a39c-6989d73a6073.asset
-  artifactKey: Guid(a36ed40d335494763a9daced00ff5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TerrainData_ebe127fe-5f01-400c-a39c-6989d73a6073.asset using Guid(a36ed40d335494763a9daced00ff5b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '380fad48df568472861d86f00aaf3275') in 0.018332 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 6.478771 seconds.
-  path: Assets/Scripts/CameraController.cs
-  artifactKey: Guid(4a9920e9f51f47b4fa364dd303757654) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/CameraController.cs using Guid(4a9920e9f51f47b4fa364dd303757654) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b63f939795d4a1f459812da1c8b97b0') in 0.017684 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.003643 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.69 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.047 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.69 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2678 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 117.2 MB.
-System memory in use after: 117.4 MB.
-
-Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 3200.
-Total: 2.613700 ms (FindLiveObjects: 0.246900 ms CreateObjectMapping: 0.136300 ms MarkObjects: 2.213100 ms  DeleteObjects: 0.016500 ms)
-
-AssetImportWorkerClient::OnTransportError - code=2 error=End of file
+  path: Assets/FREE Skyboxes - Sci-Fi & Fantasy
+  artifactKey: Guid(8abe2d9c94b144e9c81b60175b968936) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FREE Skyboxes - Sci-Fi & Fantasy using Guid(8abe2d9c94b144e9c81b60175b968936) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd85fb07d53266fef97ab5203fa44265e') in 0.011737 seconds 
