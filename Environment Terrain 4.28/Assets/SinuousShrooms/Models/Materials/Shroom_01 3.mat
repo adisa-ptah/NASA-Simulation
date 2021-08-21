@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Shroom_01
+  m_Name: Shroom_01 3
   m_Shader: {fileID: 4800000, guid: 2eba5d451423bf040a2f6a0d24029dbd, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 5

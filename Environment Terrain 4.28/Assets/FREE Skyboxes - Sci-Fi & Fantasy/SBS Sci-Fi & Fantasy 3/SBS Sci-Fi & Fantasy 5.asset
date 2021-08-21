@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6f61568514c19624ea737d70a9c3fdfa, type: 3}
-  m_Name: SBS Sci-Fi & Fantasy 3
+  m_Name: SBS Sci-Fi & Fantasy 5
   m_EditorClassIdentifier: 
   sBSSkybox:
     baseSphere:

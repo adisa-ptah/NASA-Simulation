@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 12146, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: terrainstamp_canyon03
+  m_Name: terrainstamp_canyon03 3
   m_EditorClassIdentifier: 
   m_Mask: {fileID: 2800000, guid: 00e07f21ff32c094ea64f6753fb3b542, type: 3}
   m_Falloff:
